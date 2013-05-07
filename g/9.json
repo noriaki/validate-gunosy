@@ -1,0 +1,519 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.384616,
+  "formattedSearchTime": "0.38",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "名探偵コナン：劇場版「絶海の探偵」脚本・櫻井武晴さんに聞く「青山先生 ...",
+   "htmlTitle": "名探偵コナン：劇場版「絶海の探偵」脚本・櫻井武晴さんに聞く「青山先生 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gVgO3",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=mantan-web mantan-web.jp · 名探偵コナン：劇場版「絶海の探偵  」脚本・櫻井武晴さんに聞く「青山先生が“もう一山作ろう”と」 - MANTANWEB（まんたん  ウェブ）. 人気テレビアニメ劇場版第17弾「名探偵コナン 絶海の探偵(プライベート・ ...",
+   "htmlSnippet": "Favicons?domain=mantan-web mantan-web.jp &middot; 名探偵コナン：劇場版「絶海の探偵\u003cbr\u003e  」脚本・櫻井武晴さんに聞く「青山先生が“もう一山作ろう”と」 - MANTANWEB（まんたん\u003cbr\u003e  ウェブ）. 人気テレビアニメ劇場版第17弾「名探偵コナン 絶海の探偵(プライベート・ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CAKSu1qcXfoJ",
+   "formattedUrl": "gunosy.com/g/gVgO3",
+   "htmlFormattedUrl": "gunosy.com/g/gVgO3",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mantan-web.jp/assets/images/2013/04/22/20130422dog00m200001000c_450.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "294",
+      "height": "172",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQElSwiXPdHFwmbbzQS5QfD4IQy2jC6ylKX7xnOfhb_ujYlyyPMtF3TlMk"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "名探偵コナン：劇場版「絶海の探偵」脚本・櫻井武晴さんに聞く「青山先生が“もう一山作ろう”と」 - MANTANWEB（まんたんウェブ） Gunosy News",
+      "og:description": "人気テレビアニメ劇場版第17弾「名探偵コナン 絶海の探偵(プライベート・アイ)」(静野孔文監督)が20日に公開された。青山剛昌さんが「週刊少年サンデー」(小学館)で連載中のマンガが原作で、今回は海上自衛隊のイージス艦に乗り込んだコナンたちが、艦内で発生した自衛隊員殺害事件を皮きりに潜入スパイと国家機密を巡る攻防を繰り広げる。海上自衛隊の全面協力で描かれた今作の脚本はテレビドラマ「相棒」や「ATA...",
+      "og:url": "http://gunosy.com/g/gVgO3",
+      "og:image": "http://mantan-web.jp/assets/images/2013/04/22/20130422dog00m200001000c_450.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "51akQxFaK0bZ5trrwwGvd3ReBAfrheJX/FJyLwfhy2A="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "【実機レポ】enchantMOONは“ノーUI”なタブレットだった：CES2013 ...",
+   "htmlTitle": "【実機レポ】enchantMOONは“ノーUI”なタブレットだった：CES2013 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gupPH",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=weekly.ascii weekly.ascii.jp · 【実機レポ】enchantMOONは“ノー  UI”なタブレットだった：CES2013. UEIが開発中の手書き専用タブレット”  enchantMOON”を見るため、CES2013に出展中のブースを訪れた。UEIブースは  サテライト会場で ...",
+   "htmlSnippet": "Favicons?domain=weekly.ascii weekly.ascii.jp &middot; 【実機レポ】enchantMOONは“ノー\u003cbr\u003e  UI”なタブレットだった：CES2013. UEIが開発中の手書き専用タブレット”\u003cbr\u003e  enchantMOON”を見るため、CES2013に出展中のブースを訪れた。UEIブースは\u003cbr\u003e  サテライト会場で \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2ZbQVw0MrpAJ",
+   "formattedUrl": "gunosy.com/g/gupPH",
+   "htmlFormattedUrl": "gunosy.com/g/gupPH",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ttcbn.net/wp/wp-content/uploads/2012/05/120514-03-01-560x746.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxJZIYRO4FmTAA9pVM75LbJenLH0o7uO_xYH5y_YPr18_5yFjYXatIx29k"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "【実機レポ】enchantMOONは“ノーUI”なタブレットだった：CES2013 Gunosy News",
+      "og:description": "UEIが開発中の手書き専用タブレット”enchantMOON”を見るため、CES2013に出展中のブースを訪れた。UEIブースはサテライト会場であるThe Venetian内のSANDS Expoの一角にある。 いわゆるナショナルメーカーなどが出展するラスベガス・コンベンションセンターから徒歩20分ほどの距離があり、この会場とコンベンションセンターとは、常時巡回するシャトルバスで結ばれている。大規...",
+      "og:url": "http://gunosy.com/g/gupPH",
+      "og:image": "http://weekly.ascii.jp/elem/000/000/063/63694/480x80mtmbnr_ces2013.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "niTHI94289LkAVZYSFbgyxmI3QeqDlYL9yy46e+8OaI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のyusk140のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のyusk140のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/yusk140",
+   "displayLink": "gunosy.com",
+   "snippet": "インテリア、雑貨、ガジェット、Webサイト、インスタレーションなどクリエイティブなものや  面白いと思ったものをご紹介しています 信じられないほど美しい空のグラデーション。   ニューヨークを拠点とする写真家 Eric Cahanさん作品。 実際の日没の際に取られた空 ...",
+   "htmlSnippet": "インテリア、雑貨、ガジェット、Webサイト、インスタレーションなどクリエイティブなものや\u003cbr\u003e  面白いと思ったものをご紹介しています 信じられないほど美しい空のグラデーション。 \u003cbr\u003e  ニューヨークを拠点とする写真家 Eric Cahanさん作品。 実際の日没の際に取られた空 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rCLGtzVfDn4J",
+   "formattedUrl": "gunosy.com/2012/yusk140",
+   "htmlFormattedUrl": "gunosy.com/2012/yusk140",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のyusk140のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/yusk140",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "YTEMwnEgborzeKYsDgUeTfEyza3l2KxXxBzb3i5YIdI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "今年はウエアラブル端末がヒットする年？ アップル、MS、サムスンが開発 ...",
+   "htmlTitle": "今年はウエアラブル端末がヒットする年？ アップル、MS、サムスンが開発 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gIYZ6",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな  パーソナルマガジンです。",
+   "htmlSnippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント\u003cbr\u003e  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな\u003cbr\u003e  パーソナルマガジンです。",
+   "cacheId": "R77QXb4n6_wJ",
+   "formattedUrl": "gunosy.com/g/gIYZ6",
+   "htmlFormattedUrl": "gunosy.com/g/gIYZ6",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://diamond.jp/mwimgs/9/6/-/img_9649791e0c56f3e3ab44bbd0cb13329c82343.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "241",
+      "height": "210",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlnjNeYo_GtWFgbzHaa8CI5ih75v4nNQBnksaDXiXQnlxe6sOpZXtNZn8"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "今年はウエアラブル端末がヒットする年？ アップル、MS、サムスンが開発中と海外メディアが報じる Gunosy News",
+      "og:description": "米国の調査会社チェンジウェーブ・リサーチが北米の消費者1713人を対象に行ったアンケート調査によると、米アップルが今年にも発売すると言われている腕時計型端末を購入したいと考えている人が、すでに19％に達しているという",
+      "og:url": "http://gunosy.com/g/gIYZ6",
+      "og:image": "http://jbpress.ismedia.jp/mwimgs/4/2/-/img_42d38b1b3dac0ee3fc19196eff61026812615.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "seTM/odbXCRkHrtXhz0GKBDuhrCWsIf8FYSdy2CP5Us="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "朝日新聞デジタル：村上隆さんに聞く 世界のトップを取る Gunosy",
+   "htmlTitle": "朝日新聞デジタル：村上隆さんに聞く 世界のトップを取る Gunosy",
+   "link": "http://gunosy.com/g/g1Tf9",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=digital.asahi digital.asahi.com · 朝日新聞デジタル：村上隆さんに  聞く 世界のトップを取る. 作品制作の一日は、全国から集まった美大生らスタッフとの  朝礼で始まる。「あいさつの言葉を唱和させてます。何でこんなことまでとは思いますが、 ...",
+   "htmlSnippet": "Favicons?domain=digital.asahi digital.asahi.com &middot; 朝日新聞デジタル：村上隆さんに\u003cbr\u003e  聞く 世界のトップを取る. 作品制作の一日は、全国から集まった美大生らスタッフとの\u003cbr\u003e  朝礼で始まる。「あいさつの言葉を唱和させてます。何でこんなことまでとは思いますが、 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NpccEeAS4HgJ",
+   "formattedUrl": "gunosy.com/g/g1Tf9",
+   "htmlFormattedUrl": "gunosy.com/g/g1Tf9",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.f.st-hatena.com/images/fotolife/S/Sean_SF/20120610/20120610130215.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6xC41UsOoGVwPCnmv43iBOLEsKISfiXDZHyz3SCJaD7h4nrktQRUeB91T"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "朝日新聞デジタル：村上隆さんに聞く　世界のトップを取る Gunosy News",
+      "og:description": "作品制作の一日は、全国から集まった美大生らスタッフとの朝礼で始まる。「あいさつの言葉を唱和させてます。何でこんなことまでとは思いますが、案外シャキッとしますよ」と村上隆さん＝いずれも埼玉県三芳町、高波淳撮影 ■３・１１で社会変化　芸術家も動くとき　もだえ苦しみ作る サブカルチャーと伝統絵画を結びつけた独自の作風で活躍する美術家の村上隆さん。日本の現代美術を代表する作者として海外からの評価も高い。美...",
+      "og:url": "http://gunosy.com/g/g1Tf9",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/76400193-1326782545.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "bB/nX6LHEqEGbtmNbmUUlaUExWtqd8mYSAQC7yGkOBU="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ヴィレヴァンで売ってそう!? ヒゲとプライド守るスプーン - Gunosy（グノシー）",
+   "htmlTitle": "ヴィレヴァンで売ってそう!? ヒゲとプライド守るスプーン - Gunosy（グノシー）",
+   "link": "http://gunosy.com/g/R4CFC",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=www.gizmodo www.gizmodo.jp · ヴィレヴァンで売ってそう!? ヒゲ  とプライド守るスプーン : ギズモード・ジャパン. ３日目のヒゲがモテるらしいですけど...   パーティーグッズのひげメガネの髭みたいに両端がクルリンとしてる髭を蓄えてる人って ...",
+   "htmlSnippet": "Favicons?domain=www.gizmodo www.gizmodo.jp &middot; ヴィレヴァンで売ってそう!? ヒゲ\u003cbr\u003e  とプライド守るスプーン : ギズモード・ジャパン. ３日目のヒゲがモテるらしいですけど... \u003cbr\u003e  パーティーグッズのひげメガネの髭みたいに両端がクルリンとしてる髭を蓄えてる人って \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QiyhqSyGKIMJ",
+   "formattedUrl": "gunosy.com/g/R4CFC",
+   "htmlFormattedUrl": "gunosy.com/g/R4CFC",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gizmodo.jp/assets_c/2013/02/20130201_spoon-thumb-640x360-72184.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDXPrwXxU1pW6kE9RVTEakYw1R33NSmVjR53esxFTnpjDMZ4sYbzKMLA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "ヴィレヴァンで売ってそう!? ヒゲとプライド守るスプーン : ギズモード・ジャパン Gunosy News",
+      "og:description": "３日目のヒゲがモテるらしいですけど...  パーティーグッズのひげメガネの髭みたいに両端がクルリンとしてる髭を蓄えてる人ってかなり少数派。でも、時代をさかのぼることヴィクトリア時代のイギリスでは、このクルリン髭やリッチな髭は名誉と男らしさのシンボルでした。丁寧にブラッシングして艶も形もいい髭を保っていたわけです。　  またヴィクトリア時代では、どんな時でもスマートな振る舞いをすることで女心を...",
+      "og:url": "http://gunosy.com/g/R4CFC",
+      "og:image": "http://www.gizmodo.jp/assets_c/2013/02/20130201_spoon-thumb-640x360-72184.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "rI/Nrcppxf9IvjZ4FZTcCkj+dVOrAHeIiQYrZoGGis0="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "パタゴニアの奇跡。世界で最も美しい洞窟『マーブルカテドラル』 | トラベル ...",
+   "htmlTitle": "パタゴニアの奇跡。世界で最も美しい洞窟『マーブルカテドラル』 | トラベル \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gI6cT",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=travelhack travelhack.jp · パタゴニアの奇跡。世界で最も美しい  洞窟『マーブルカテドラル』 | トラベルハック｜あなたの冒険を加速する. どこに続くか  分からない穴を探検するのが好きなKikuma(@circustic)です。 パタゴニアというと超大  自然 ...",
+   "htmlSnippet": "Favicons?domain=travelhack travelhack.jp &middot; パタゴニアの奇跡。世界で最も美しい\u003cbr\u003e  洞窟『マーブルカテドラル』 | トラベルハック｜あなたの冒険を加速する. どこに続くか\u003cbr\u003e  分からない穴を探検するのが好きなKikuma(@circustic)です。 パタゴニアというと超大\u003cbr\u003e  自然 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yKqLB6O9-TEJ",
+   "formattedUrl": "gunosy.com/g/gI6cT",
+   "htmlFormattedUrl": "gunosy.com/g/gI6cT",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog-imgs-53-origin.fc2.com/a/y/u/ayutube/gazo0823_aof11.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "360",
+      "height": "140",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFjOE4axjQ1QkY0vjA3XxeTcXCf2i7Pa6zyfqfMX3yMd9qD6GLL9idHac"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "パタゴニアの奇跡。世界で最も美しい洞窟『マーブルカテドラル』 | トラベルハック｜あなたの冒険を加速する Gunosy News",
+      "og:description": "どこに続くか分からない穴を探検するのが好きなKikuma(@circustic)です。 パタゴニアというと超大自然というイメージですが、そんなパタゴニアの世界で最も美しい洞窟と称されるマーブルカテドラル（大理石の大聖堂）をご紹介！ このマーブルカテドラルがあるのは氷河によって浸食されたヘネラル・カレーラ湖。 大理石とは石灰岩がマグマによって溶かされ凝固した物なので、ドロっとした流れが綺麗な模様を作...",
+      "og:url": "http://gunosy.com/g/gI6cT",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "WihZ/L3wDyWf2CTvhVU4YT+JiAuQF3lr4olMkIZMP+Q="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pinterestの19歳のデザイナーが起業して110万ドルを調達―Gumroad ...",
+   "htmlTitle": "Pinterestの19歳のデザイナーが起業して110万ドルを調達―Gumroad \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/ReqaH",
+   "displayLink": "gunosy.com",
+   "snippet": "Pinterestの19歳のデザイナーが起業して110万ドルを調達―Gumroadはリンクから  支払いができる画期的サービス · Favicons?domain=jp.techcrunch jp.techcrunch.  com. 最近、大いに話題になっているGumroadはPinterestとTurntableアプリの  デザイナー（ ...",
+   "htmlSnippet": "Pinterestの19歳のデザイナーが起業して110万ドルを調達―Gumroadはリンクから\u003cbr\u003e  支払いができる画期的サービス &middot; Favicons?domain=jp.techcrunch jp.techcrunch.\u003cbr\u003e  com. 最近、大いに話題になっているGumroadはPinterestとTurntableアプリの\u003cbr\u003e  デザイナー（ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BCMSvnVrhGwJ",
+   "formattedUrl": "gunosy.com/g/ReqaH",
+   "htmlFormattedUrl": "gunosy.com/g/ReqaH",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gigazine.jp/img/2012/08/14/unkode-mania/6364521809_7cdf0a925c_o.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpbT87xCQh9Q375cqQ7NWnLUaMJ-UguNuL0FRRHwiOe0nv12mjBhv_e14r"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "Pinterestの19歳のデザイナーが起業して110万ドルを調達―Gumroadはリンクから支払いができる画期的サービス Gunosy News",
+      "og:description": "最近、大いに話題になっているGumroadはPinterestとTurntableアプリのデザイナー（なんと現在まだ19歳の大学ドロップアウト）、Sahil Lavingiaが単身で立ち上げたスタートアップだが、今日（米国時間3/11）、110万ドルのシード資金の投資を受けて正式にローンチされた。 投資家はAccel Partners、Chris Sacca、Max Levchin、SV Ange...",
+      "og:url": "http://gunosy.com/g/ReqaH",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/80687221-1329096087.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "NBttb1c5TTdBnsRX5HOS0KcvvP5awni8ZeYpTtd/MPk="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "虹のように7色のティッシュが次々出てくる「七宝ティシュー」を使ってみ ...",
+   "htmlTitle": "虹のように7色のティッシュが次々出てくる「七宝ティシュー」を使ってみ \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/RlWG8",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=gigazine gigazine.net · 虹のように7色のティッシュが次々出てくる  「七宝ティシュー」を使ってみました - GIGAZINE. 日本の伝統工芸「七宝焼き」は仏教の  経典にでてくる7つの宝石に匹敵することからその名が付けられましたが、そんな七宝 ...",
+   "htmlSnippet": "Favicons?domain=gigazine gigazine.net &middot; 虹のように7色のティッシュが次々出てくる\u003cbr\u003e  「七宝ティシュー」を使ってみました - GIGAZINE. 日本の伝統工芸「七宝焼き」は仏教の\u003cbr\u003e  経典にでてくる7つの宝石に匹敵することからその名が付けられましたが、そんな七宝 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IkoG8oAEHKoJ",
+   "formattedUrl": "gunosy.com/g/RlWG8",
+   "htmlFormattedUrl": "gunosy.com/g/RlWG8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://akio0911.net/wp-content/uploads/IMG_79051.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuulyE5f4LJe-JisZ62q0DhM6jtDzTFGXq6QFrvE9TVN684cVaDZXGPSSj"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "虹のように7色のティッシュが次々出てくる「七宝ティシュー」を使ってみました - GIGAZINE Gunosy News",
+      "og:description": "日本の伝統工芸「七宝焼き」は仏教の経典にでてくる7つの宝石に匹敵することからその名が付けられましたが、そんな七宝をイメージして作られた7色の鮮やかなティッシュが「七宝ティシュー」です。風邪を引きやすい季節になりティッシュの使用頻度も増えてきましたが、七宝ティシューとはどんなものなのか？ということで実際に使ってみました。 大昭和ファースト株式会社｜七宝ティシュー http://www.daishow...",
+      "og:url": "http://gunosy.com/g/RlWG8",
+      "og:image": "http://gigazine.jp/img/2012/12/08/7-treasures-tissue/top.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "IOnoLlY0jqt0+/rDB7H/VV/nMUtwe+t0E5cGCr+nj0A="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elastic: 「究極のワードローブ（社会人男性の必要最小限）」考に挑む ...",
+   "htmlTitle": "Elastic: 「究極のワードローブ（社会人男性の必要最小限）」考に挑む \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/glIPH",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=taf5686.269g taf5686.269g.net · Elastic: 「究極のワードローブ（  社会人男性の必要最小限）」考に挑む【前編】. 「バリュー服」と「定番」。この2つはここ数  年ファッション誌の 中心的なキーワードになっております。それだけ損をしない「必要 ...",
+   "htmlSnippet": "Favicons?domain=taf5686.269g taf5686.269g.net &middot; Elastic: 「究極のワードローブ（\u003cbr\u003e  社会人男性の必要最小限）」考に挑む【前編】. 「バリュー服」と「定番」。この2つはここ数\u003cbr\u003e  年ファッション誌の 中心的なキーワードになっております。それだけ損をしない「必要 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y19jwb84kRkJ",
+   "formattedUrl": "gunosy.com/g/glIPH",
+   "htmlFormattedUrl": "gunosy.com/g/glIPH",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mensfashion.cc/campaign/121208-xmas/img-28.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqU6Qoz6YcvF3SnQPISokF1YZyotkNDl3SNzb2hvXKbH4i7xv4uXFIrvyz"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "Elastic: 「究極のワードローブ（社会人男性の必要最小限）」考に挑む【前編】 Gunosy News",
+      "og:description": "「バリュー服」と「定番」。この2つはここ数年ファッション誌の 中心的なキーワードになっております。それだけ損をしない「必要最小限」の オシャレをしたい方が増えているのでしょう。いち服好きとして、 もっとポジティブにオシャレを楽しめばいいのになと思う反面、 「必要最小限」を突き詰めたらどんなワードローブ構成になるのだろう？ と考えてみたくなるのも服好きの悲しい性なんですよね （それは私だけかもしれま...",
+      "og:url": "http://gunosy.com/g/glIPH",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/71916305-1323781346.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ONkwsiwGSRlOgl4I2SLX/gspw34VoM0SLruaIb0Bw7Y="
+     }
+    ]
+   }
+  }
+ ]
+}

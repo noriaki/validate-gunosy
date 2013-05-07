@@ -1,0 +1,519 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.112937,
+  "formattedSearchTime": "0.11",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/20のtak4hir0のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/20のtak4hir0のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/tak4hir0",
+   "displayLink": "gunosy.com",
+   "snippet": "こんな記事を読みました。 ・「あ、この人、仕事できるんだろうな」って思う9つの瞬間（Six   Apart ブログ） シックス・アパート株式会社というIT企業の中の人が書いた記事です。私  が嫌いなライフハッ... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "こんな記事を読みました。 ・「あ、この人、仕事できるんだろうな」って思う9つの瞬間（Six \u003cbr\u003e  Apart ブログ） シックス・アパート株式会社というIT企業の中の人が書いた記事です。私\u003cbr\u003e  が嫌いなライフハッ... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ln59GOUF9XIJ",
+   "formattedUrl": "gunosy.com/tak4hir0",
+   "htmlFormattedUrl": "gunosy.com/tak4hir0",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "92",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4PXJupE_l9eN0WXnLgJW2eq1fkSEX0j_43hvwSg8BLDSqAtYCst2Y"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/20のtak4hir0のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/tak4hir0/2013/04/20",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "DPVZzA5sTl2iRKfjMldJk+gOr0AKje1LFI9DRlsZ6D8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/30のKeY_nyのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/30のKeY_nyのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/KeY_ny",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=weekly.ascii weekly.ascii.jp · レシートを撮るだけでカンタンに家計  簿ができるiPhoneアプリ、ReceReco. ReceReco レシート撮影で家計簿！支出管理で  節約、貯金 App Store価格：無料 BrainPad Inc. （価格は記事作成時のものです） ...",
+   "htmlSnippet": "Favicons?domain=weekly.ascii weekly.ascii.jp &middot; レシートを撮るだけでカンタンに家計\u003cbr\u003e  簿ができるiPhoneアプリ、ReceReco. ReceReco レシート撮影で家計簿！支出管理で\u003cbr\u003e  節約、貯金 App Store価格：無料 BrainPad Inc. （価格は記事作成時のものです） \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kMcBrpX-J1YJ",
+   "formattedUrl": "gunosy.com/KeY_ny",
+   "htmlFormattedUrl": "gunosy.com/KeY_ny",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mantan-web.jp/assets/images/2013/04/29/20130429dog00m200008000c_450.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "268",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTStv1xq4tsBmRo-yqA5zeVlHhw496SMYmk1d3lOOunRaD2jvkdjaCsOzk"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/30のKeY_nyのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/KeY_ny/2013/04/30",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "fR+ZlsIXf6OveHheiBSVKncH0PGXTCxcUES7F5vJSk8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/03の_crane_のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/03の_crane_のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/_crane_/",
+   "displayLink": "gunosy.com",
+   "snippet": "2 日前 ... Googleリーダーがそろそろ終焉を迎えるので、最近話題になっているFeedlyを使ってみ  ました。 Googleリーダーからの移行もすぐに行えて、iOS/Androidアプリもあり便利です  。 ウェブ版... Btn-tw-tweet_rollover. Btn-fb-share_rollover. Mails ...",
+   "htmlSnippet": "2 日前 \u003cb\u003e...\u003c/b\u003e Googleリーダーがそろそろ終焉を迎えるので、最近話題になっているFeedlyを使ってみ\u003cbr\u003e  ました。 Googleリーダーからの移行もすぐに行えて、iOS/Androidアプリもあり便利です\u003cbr\u003e  。 ウェブ版... Btn-tw-tweet_rollover. Btn-fb-share_rollover. Mails \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ATQq5seQJsUJ",
+   "formattedUrl": "gunosy.com/_crane_/",
+   "htmlFormattedUrl": "gunosy.com/_crane_/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://20kaido.com/article/2013/04/09/01.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "520",
+      "height": "96",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUqWDtNWtiSv37Mrxxt0FPYXQEY5TBYTZbWfaGduUp5DzO7eyr-ku6NQ"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/03の_crane_のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/_crane_/2013/05/03",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "dLO6hzPCxftV12UyWHKfMw447DWD2odGnQVv8Il3j3o="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/27のOsamuOkanoのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/27のOsamuOkanoのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/OsamuOkano",
+   "displayLink": "gunosy.com",
+   "snippet": "［Appleのデザイナー］Jony IveがiOSを全面改訂するのを待てない方のために、Classic   Noteはいかが? このアプリは128Kの栄光の中のウォズとジョブズのマジックをほんの  少し取戻し... Btn-tw-tweet_rollover. Btn-fb-share_rollover. 130415meigenjikkou ...",
+   "htmlSnippet": "［Appleのデザイナー］Jony IveがiOSを全面改訂するのを待てない方のために、Classic \u003cbr\u003e  Noteはいかが? このアプリは128Kの栄光の中のウォズとジョブズのマジックをほんの\u003cbr\u003e  少し取戻し... Btn-tw-tweet_rollover. Btn-fb-share_rollover. 130415meigenjikkou \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "URW1Q8UJVVcJ",
+   "formattedUrl": "gunosy.com/OsamuOkano",
+   "htmlFormattedUrl": "gunosy.com/OsamuOkano",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-25-at-5-33-44-pm.png?w=300&"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "119",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ6IT0Qt01gnLy83XcYKVng-xk_hBUZ-6TNGmja1Uk31K0JaZnkIITEf4"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/27のOsamuOkanoのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/OsamuOkano/2013/04/27",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "tyGJuQnkY7cPMYsZiOdHTQtqe1SgcTm6AkePWh9h//c="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/25のYukiNishijimaのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/25のYukiNishijimaのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/yukinishijima",
+   "displayLink": "gunosy.com",
+   "snippet": "この前「英語圏のWEB屋な人たちが読んでそうなブログ教えて」って具合の、まぁいつも  通り取り留め無く唐突な質問がありまして、コレまた僕にとってはいつも通り『北米WEB  屋なら誰でも知ってるんじゃないかって... Btn-tw-tweet_rollover. Btn-fb- ...",
+   "htmlSnippet": "この前「英語圏のWEB屋な人たちが読んでそうなブログ教えて」って具合の、まぁいつも\u003cbr\u003e  通り取り留め無く唐突な質問がありまして、コレまた僕にとってはいつも通り『北米WEB\u003cbr\u003e  屋なら誰でも知ってるんじゃないかって... Btn-tw-tweet_rollover. Btn-fb- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UOYAz9NjPw4J",
+   "formattedUrl": "gunosy.com/yukinishijima",
+   "htmlFormattedUrl": "gunosy.com/yukinishijima",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.wp.com/wp-d.org/wp-content/uploads/2013/04/seppuku-monaka1.png?resize=157%2C129"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "125",
+      "height": "103",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCTApr8v9kZrTyY0M7r3NDYaHl88xbNsXDG42UmvvqmUwfNQaGRyX-"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/25のYukiNishijimaのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/YukiNishijima/2013/04/25",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "T3/+L2lAbeqZb1KgnNMtBPSdSKpOCyOx/rxMSzeKkrA="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/03のyimaiのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/03のyimaiのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/yimai",
+   "displayLink": "gunosy.com",
+   "snippet": "Googleリーダーがそろそろ終焉を迎えるので、最近話題になっているFeedlyを使ってみ  ました。 Googleリーダーからの移行もすぐに行えて、iOS/Androidアプリもあり便利です  。 ウェブ版... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "Googleリーダーがそろそろ終焉を迎えるので、最近話題になっているFeedlyを使ってみ\u003cbr\u003e  ました。 Googleリーダーからの移行もすぐに行えて、iOS/Androidアプリもあり便利です\u003cbr\u003e  。 ウェブ版... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GXT-mCRUYmUJ",
+   "formattedUrl": "gunosy.com/yimai",
+   "htmlFormattedUrl": "gunosy.com/yimai",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://db.u-note.me/img/post/61111367.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "262",
+      "height": "192",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS786FdkMVKKpDkKsVAl8h1Ltl4iwrq1hvIncoH7xbvTLUM2R9hmJdFpGQ"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/03のyimaiのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/yimai/2013/05/03",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "s2RgP/hCNRgxoAbVO+0xRxyjiDRrhBctQlPvvN7W7Qk="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/27のvqzpvのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/27のvqzpvのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/vqzpv",
+   "displayLink": "gunosy.com",
+   "snippet": "［Appleのデザイナー］Jony IveがiOSを全面改訂するのを待てない方のために、Classic   Noteはいかが? このアプリは128Kの栄光の中のウォズとジョブズのマジックをほんの  少し取戻し... Btn-tw-tweet_rollover. Btn-fb-share_rollover. Mzl.oxbyxutk.480x480- ...",
+   "htmlSnippet": "［Appleのデザイナー］Jony IveがiOSを全面改訂するのを待てない方のために、Classic \u003cbr\u003e  Noteはいかが? このアプリは128Kの栄光の中のウォズとジョブズのマジックをほんの\u003cbr\u003e  少し取戻し... Btn-tw-tweet_rollover. Btn-fb-share_rollover. Mzl.oxbyxutk.480x480- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TXPueSVPDuAJ",
+   "formattedUrl": "gunosy.com/vqzpv",
+   "htmlFormattedUrl": "gunosy.com/vqzpv",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://hitoriblog.com/wp-content/uploads/2013/04/SDIM1202.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ--iAQVRNbJhPEfctYrhddAEX6fX30gO3IX96TBgKHcW450JhWPReQLL56"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/27のvqzpvのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/vqzpv/2013/04/27",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "/C+OL0dO9D5O4lXXtyORfs5USBk1we8bXdei0ilLFuA="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/23のhayamaru_gp01のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/23のhayamaru_gp01のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/hayamaru_gp01",
+   "displayLink": "gunosy.com",
+   "snippet": "民間調査機関の労務行政研究所が２２日発表した、今年４月入社の新入社員の初任給  調査によると、９５・４％の企業が、全学歴または一部学歴で初任給を２０１２年度と同額  に据え置いたと回答した。据え置きは５年連続... Btn-tw-tweet_rollover. Btn-fb- ...",
+   "htmlSnippet": "民間調査機関の労務行政研究所が２２日発表した、今年４月入社の新入社員の初任給\u003cbr\u003e  調査によると、９５・４％の企業が、全学歴または一部学歴で初任給を２０１２年度と同額\u003cbr\u003e  に据え置いたと回答した。据え置きは５年連続... Btn-tw-tweet_rollover. Btn-fb- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vbaRNFLgqLcJ",
+   "formattedUrl": "gunosy.com/hayamaru_gp01",
+   "htmlFormattedUrl": "gunosy.com/hayamaru_gp01",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.asahicom.jp/national/update/0422/images/NGY201304220003.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "190",
+      "height": "265",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFWw3pZyQTLP9oKiFMpIKhRboLWBk0joF6tV6jJT_4PSDn6IL8gCITB7jc"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/23のhayamaru_gp01のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/hayamaru_gp01/2013/04/23",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "5YNFjhRSTT+CPFhP5eVhadQ872mYxf2OrrhXlTqmplg="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/27のYutakaMatsuoのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/27のYutakaMatsuoのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/YutakaMatsuo",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyは「あなたの欲しい情報」を集めてきます。 自分で情報を探す必要はもう  ありません。 Gunosyがあなたに合ったニュースだけを毎日届けてくれます。 Facebook  で登録 · Twitterで登録 · 前日 2013.04.26（金）2013.04.27（土）. 2013年3月のまとめ ...",
+   "htmlSnippet": "Gunosyは「あなたの欲しい情報」を集めてきます。 自分で情報を探す必要はもう\u003cbr\u003e  ありません。 Gunosyがあなたに合ったニュースだけを毎日届けてくれます。 Facebook\u003cbr\u003e  で登録 &middot; Twitterで登録 &middot; 前日 2013.04.26（金）2013.04.27（土）. 2013年3月のまとめ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KnmQZ_gNVm4J",
+   "formattedUrl": "gunosy.com/YutakaMatsuo",
+   "htmlFormattedUrl": "gunosy.com/YutakaMatsuo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tamabi.ac.jp/new2014/img/catch.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "256",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkPl5TiHtXHiad9nruqY7e5pfyfc7OdadWwvuLkBT20SRalF5cRNNcdk3D"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/27のYutakaMatsuoのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/YutakaMatsuo/2013/04/27",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "fUWJwlRbqOQZfHqhgIRIu6JrIr8gXCuNzA590losR/I="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/04のflunky53のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/04のflunky53のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/flunky53/",
+   "displayLink": "gunosy.com",
+   "snippet": "自分を始め、友人や家族はもちろん、はたまた2次元キャラクターや芸能人を登録させる  と、全員がとある島に存在するマンションの住民となり生活していく。そこでは友情が育  まれたり、恋愛が成就し、遂には結婚まで発... Btn-tw-tweet_rollover. Btn-fb- ...",
+   "htmlSnippet": "自分を始め、友人や家族はもちろん、はたまた2次元キャラクターや芸能人を登録させる\u003cbr\u003e  と、全員がとある島に存在するマンションの住民となり生活していく。そこでは友情が育\u003cbr\u003e  まれたり、恋愛が成就し、遂には結婚まで発... Btn-tw-tweet_rollover. Btn-fb- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l3viTQS1TVIJ",
+   "formattedUrl": "gunosy.com/flunky53/",
+   "htmlFormattedUrl": "gunosy.com/flunky53/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.search.naver.jp%2Fjthumb.lookup%3Ftype%3Detc2%26url%3Dhttp%253A%252F%252Fnews.dengeki.com%252Felem%252F000%252F000%252F621%252F621604%252Fc20130404_tomodachi_01_cs1w1_300x.jpg&twidth=120&theight=120&qlt"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "88",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPt3sG2VtUmrt6GbFasVN7vvtAlyzs8UB8s7n4-ViLYfU3skvDz3L"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/04のflunky53のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/flunky53/2013/05/04",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ALzc94YPGdZk2wkjd6F38z02XpMBD7p3faD3QBk3DOo="
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.226553,
+  "formattedSearchTime": "0.23",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のkanamurのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のkanamurのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/kanamur",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=phpspot phpspot.org · ストレス無しでGoogleマップを使った  サイトが作れる「gmaps.js」:phpspot開発日誌. gmaps.js ? the easiest way to use   Google Maps ストレス無しでGoogleマップを使ったサイトが作れる「gmaps.js」   Googleマップ ...",
+   "htmlSnippet": "Favicons?domain=phpspot phpspot.org &middot; ストレス無しでGoogleマップを使った\u003cbr\u003e  サイトが作れる「gmaps.js」:phpspot開発日誌. gmaps.js ? the easiest way to use \u003cbr\u003e  Google Maps ストレス無しでGoogleマップを使ったサイトが作れる「gmaps.js」 \u003cbr\u003e  Googleマップ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GuC5sbSRavcJ",
+   "formattedUrl": "gunosy.com/2012/kanamur",
+   "htmlFormattedUrl": "gunosy.com/2012/kanamur",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.blogcdn.com/www.engadget.com/media/2012/08/sonyvdsc05154.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM-OFzxeRDxOS2bHktzmcuNg77JR_niW-oM0fo4muX_HdSbASeh-If_MnN"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のkanamurのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/kanamur",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ToEOV0y+rtSYbaEvZ7h7j11VTBzFxEN7ciLToULMb3U="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のshowa_yojyoのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のshowa_yojyoのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/showa_yojyo",
+   "displayLink": "gunosy.com",
+   "snippet": "アテネ／ロンドン １８日 ロイター］ ギリシャの首都アテネでは、ホームレスの数が１年前  と比べ２倍になった。何か売れるものがないかと、ごみ箱をあさる人の姿も見られる。   ギリシャは限界が近い。緊縮財政策をめぐって四苦八苦している状態だが、これは悪夢  の ...",
+   "htmlSnippet": "アテネ／ロンドン １８日 ロイター］ ギリシャの首都アテネでは、ホームレスの数が１年前\u003cbr\u003e  と比べ２倍になった。何か売れるものがないかと、ごみ箱をあさる人の姿も見られる。 \u003cbr\u003e  ギリシャは限界が近い。緊縮財政策をめぐって四苦八苦している状態だが、これは悪夢\u003cbr\u003e  の \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DoHc8JjC_tYJ",
+   "formattedUrl": "gunosy.com/2012/showa_yojyo",
+   "htmlFormattedUrl": "gunosy.com/2012/showa_yojyo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/80948553-1329236086.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEX6QfysiLOGAw05OjhR_2_WqoDKqiWDu-j9ZMWqT2YsauMZknKF9n"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のshowa_yojyoのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/showa_yojyo",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "qciOyT6XvGYUHNwx/qGsNeEdRwX8C4Y52O46csHFTd0="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NTTはどこへ行くのか 【第6章】NTTグループが抱える経営課題（1） 成長 ...",
+   "htmlTitle": "NTTはどこへ行くのか 【第6章】NTTグループが抱える経営課題（1） 成長 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/g7v3T",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな  パーソナルマガジンです。",
+   "htmlSnippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント\u003cbr\u003e  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな\u003cbr\u003e  パーソナルマガジンです。",
+   "cacheId": "Q8Tg-WQQH_IJ",
+   "formattedUrl": "gunosy.com/g/g7v3T",
+   "htmlFormattedUrl": "gunosy.com/g/g7v3T",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gendai.ismedia.jp/mwimgs/1/4/-/img_146a8074f0ffa5f36ebe9f0b79ede7a846753.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "NTTはどこへ行くのか　【第6章】NTTグループが抱える経営課題（1）　成長戦略を描けないNTT東西　 | NTTはどこへ行くのか～クラウドへの挑戦～ | 現代ビジネス [講談社] Gunosy News",
+      "og:description": "　電話に始まるテレコミュニケーションの歴史で、過去20年間はもっとも変化の激しかった時期でしょう。90年代は携帯電話が急速に普及する一方、長距離電話サービスがなくなり、最終的には固定電話が衰退して行きました。 　また、インターネットの普及によって、パソコンや携帯向けのデータ通信がテレコミュニケーションの主役にのし上がり、現在はモバイル･ブロードバンドへと発展しています。",
+      "og:url": "http://gunosy.com/g/g7v3T",
+      "og:image": "http://gendai.ismedia.jp/mwimgs/1/4/-/img_146a8074f0ffa5f36ebe9f0b79ede7a846753.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "OUW9glNpYnV7l5lbyK9rr9uBqi0FVhBKcyBHXr4bUoI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "「モンサントの遺伝子組み換え食品に毒性の疑い」ルモンド紙報じる ...",
+   "htmlTitle": "「モンサントの遺伝子組み換え食品に毒性の疑い」ルモンド紙報じる \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/RlnjI",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック ...",
+   "htmlSnippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gG5lqeo8Qp8J",
+   "formattedUrl": "gunosy.com/g/RlnjI",
+   "htmlFormattedUrl": "gunosy.com/g/RlnjI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/90962102-1335175290.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1sIrU5-N-Ou88P131GmoG84D0FOdc4BcEKGtaetIwt33h3HKf6Tq0Hg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "「モンサントの遺伝子組み換え食品に毒性の疑い」ルモンド紙報じる｜『セヴァンの地球のなおし方』監督のGMOと原子力が題材の新作公開にあわせ、ラットの2年間の実験結果が公表 - 骰子 Gunosy News",
+      "og:description": "ジャン＝ポール・ジョー監督の最新作『Tous cobayes?』のビジュアル アメリカのアグロバイオ企業・モンサント社の世界戦略を追ったドキュメンタリー『モンサントの不自然な食べもの』が現在日本でも公開されているなか、モンサント社が生産している遺伝子組み換え食品が毒性を持つという実験結果が9月19日、フランス・ルモンド紙で報道された。これまでも遺伝子組み換え食品の人体への影響を検証する実験は行われ...",
+      "og:url": "http://gunosy.com/g/RlnjI",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "lC56kGp8zscn3mIdqeWsqekGubg6h7Ccjv25HJs3dp8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のsaitokensukeのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のsaitokensukeのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/saitokensuke",
+   "displayLink": "gunosy.com",
+   "snippet": "2012年のGunosyまとめをシェアする. Ico_facebook_16px Share. Ico_twitter_16px   Tweet. Webデザインのアウトプットに役立つインスピレーションを得られるサイトを集め  ました | Webデザインクリップ｜Web制作に便利な情報を集めたまとめサイト · 001 ...",
+   "htmlSnippet": "2012年のGunosyまとめをシェアする. Ico_facebook_16px Share. Ico_twitter_16px \u003cbr\u003e  Tweet. Webデザインのアウトプットに役立つインスピレーションを得られるサイトを集め\u003cbr\u003e  ました | Webデザインクリップ｜Web制作に便利な情報を集めたまとめサイト &middot; 001 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MPcAiyp4bY8J",
+   "formattedUrl": "gunosy.com/2012/saitokensuke",
+   "htmlFormattedUrl": "gunosy.com/2012/saitokensuke",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://tctechcrunch2011.files.wordpress.com/2012/11/screen-shot-2012-11-05-at-9-39-20-am.png?w=1024&"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3821S8owSD8x8MwxGbL12RzaTopicTA3oar41p0lHcJFa9pmlcoLdE58"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=device-width",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のsaitokensukeのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/saitokensuke",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "UxRNKri7YrBfKZYe8c8afGmm9sbx5Zl7TLgl7pUjLAE="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のkjunichiのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のkjunichiのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/kjunichi",
+   "displayLink": "gunosy.com",
+   "snippet": "webサービスを作ろう！といつも思いながら 結局、なんだかんだでまだスタートできてい  ません(^^;) 今回は、そんな筆者がwebサービスの作成を考えた時に 本当に参考になっ  た記事をランキング付けしてみました。 なかなか敷居が高くて一歩目が踏み出しづらい ...",
+   "htmlSnippet": "webサービスを作ろう！といつも思いながら 結局、なんだかんだでまだスタートできてい\u003cbr\u003e  ません(^^;) 今回は、そんな筆者がwebサービスの作成を考えた時に 本当に参考になっ\u003cbr\u003e  た記事をランキング付けしてみました。 なかなか敷居が高くて一歩目が踏み出しづらい \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eKltlXHEDggJ",
+   "formattedUrl": "gunosy.com/2012/kjunichi",
+   "htmlFormattedUrl": "gunosy.com/2012/kjunichi",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のkjunichiのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/kjunichi",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ZMY0gqjHOVz6j7q/Ujdd24v8JODo2ncdFhwoIh8+R5k="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のpuretrance09のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のpuretrance09のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/puretrance09",
+   "displayLink": "gunosy.com",
+   "snippet": "web制作でお世話になっている便利サイト 今回は画像もなしに一覧にしてしまおうと  思います。使うときにパッと一覧するような実用性を考えているので、詰めてあった方が  いいですよね。 webcre8がwebサイトの制作をしているとき頻繁にアクセスするサイト  リスト ...",
+   "htmlSnippet": "web制作でお世話になっている便利サイト 今回は画像もなしに一覧にしてしまおうと\u003cbr\u003e  思います。使うときにパッと一覧するような実用性を考えているので、詰めてあった方が\u003cbr\u003e  いいですよね。 webcre8がwebサイトの制作をしているとき頻繁にアクセスするサイト\u003cbr\u003e  リスト \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ob3NuNYR66UJ",
+   "formattedUrl": "gunosy.com/2012/puretrance09",
+   "htmlFormattedUrl": "gunosy.com/2012/puretrance09",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のpuretrance09のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/puretrance09",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "etPs5XIdV1y9vqLai7zkgwR16e2VT0JO8D5uAIQoS6o="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年の36soraのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年の36soraのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/36sora",
+   "displayLink": "gunosy.com",
+   "snippet": "［Mac保存版］Macユーザーなら絶対に保存するべき有益すぎるTipsや環境設定、アプリ  の記事２２選まとめ January 27, 201219:28 ツイート 今回はMacに関する有益になり  すぎる情報をみなさんに提供したいと思い、まとめてみました。少し量が多いですが、 ...",
+   "htmlSnippet": "［Mac保存版］Macユーザーなら絶対に保存するべき有益すぎるTipsや環境設定、アプリ\u003cbr\u003e  の記事２２選まとめ January 27, 201219:28 ツイート 今回はMacに関する有益になり\u003cbr\u003e  すぎる情報をみなさんに提供したいと思い、まとめてみました。少し量が多いですが、 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ABlvD3CPY30J",
+   "formattedUrl": "gunosy.com/2012/36sora",
+   "htmlFormattedUrl": "gunosy.com/2012/36sora",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年の36soraのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/36sora",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "+OiKRiYwuT0qXTM4oCaMW0SvRN0HsE0B3VFW64DNXks="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のasakura_tのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のasakura_tのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/asakura_t",
+   "displayLink": "gunosy.com",
+   "snippet": "2012年04月30日 「咲-Saki-阿知賀編」松実玄さんはとてもイイ子なのが一目で分かる  麻雀アニメ独特の表現 咲-Saki-阿知賀編のアニメは先週の時点で3話まで進んでおり、  今日4話目が放送されるという状況です。第3話はまさに神回ってやつでしたね〜。",
+   "htmlSnippet": "2012年04月30日 「咲-Saki-阿知賀編」松実玄さんはとてもイイ子なのが一目で分かる\u003cbr\u003e  麻雀アニメ独特の表現 咲-Saki-阿知賀編のアニメは先週の時点で3話まで進んでおり、\u003cbr\u003e  今日4話目が放送されるという状況です。第3話はまさに神回ってやつでしたね〜。",
+   "cacheId": "jv3nFgtMEx8J",
+   "formattedUrl": "gunosy.com/2012/asakura_t",
+   "htmlFormattedUrl": "gunosy.com/2012/asakura_t",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://temple-knights.com/icon/iconfa52.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfCbRauxVI-eVi8_zIJSttwdQcKYGYnvwUVu9UVIkqZ7QDsG5jWoOeA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のasakura_tのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/asakura_t",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "iP3GRTFIo1WoSZwdirDvqfJMaR22DEaoniHTyfZgcGM="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "お前は今までに食べた食べログのの数を覚えているか？ ねとぽよグルメ ...",
+   "htmlTitle": "お前は今までに食べた食べログのの数を覚えているか？ ねとぽよグルメ \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/ggHDw",
+   "displayLink": "gunosy.com",
+   "snippet": "2013年3月21日 ... Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyは ...",
+   "htmlSnippet": "2013年3月21日 \u003cb\u003e...\u003c/b\u003e Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyは \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pxHzHide_CAJ",
+   "formattedUrl": "gunosy.com/g/ggHDw",
+   "htmlFormattedUrl": "gunosy.com/g/ggHDw",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.kindai.ac.jp/topics/assets_c/2012/12/pic_121203-4.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "141",
+      "height": "357",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU-YQVEjThJMwwGby0OXpRvpQl5xkFjU8M8Lp-UJRPGtw30mPOJMcXReg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "お前は今までに食べた食べログの☆の数を覚えているか？　ねとぽよグルメ部おすすめのお店 - ねとぽよ Gunosy News",
+      "og:description": "2013-03-21 お前は今までに食べた食べログの☆の数を覚えているか？　ねとぽよグルメ部おすすめのお店 舌と脂肪を肥やし続けているみなさんこんばんは～ ねとぽよちゃんです♡ 歓送迎会シーズンを控え...",
+      "og:url": "http://gunosy.com/g/ggHDw",
+      "og:image": "http://cdn-ak.f.st-hatena.com/images/fotolife/n/netpoyo/20120504/20120504003408.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "xydubwNS5mVUnnKHzINKP5LwJDo5xxxCGceAinej7dA="
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 101,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 91,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.180911,
+  "formattedSearchTime": "0.18",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "読書猿Classic: between / beyond readers Gunosy",
+   "htmlTitle": "読書猿Classic: between / beyond readers Gunosy",
+   "link": "http://gunosy.com/g/g0ZE1",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=readingmonkey.blog45.fc2 readingmonkey.blog45.fc2.com ·   読書猿Classic: between / beyond readers. 読書猿というメールマガジンがあった（  本当のことをいうと今もある）。 年数で１０年を超えて、冊数で数百冊程度ではある  けれど、 ...",
+   "htmlSnippet": "Favicons?domain=readingmonkey.blog45.fc2 readingmonkey.blog45.fc2.com &middot; \u003cbr\u003e  読書猿Classic: between / beyond readers. 読書猿というメールマガジンがあった（\u003cbr\u003e  本当のことをいうと今もある）。 年数で１０年を超えて、冊数で数百冊程度ではある\u003cbr\u003e  けれど、 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oeiGS7MXAIQJ",
+   "formattedUrl": "gunosy.com/g/g0ZE1",
+   "htmlFormattedUrl": "gunosy.com/g/g0ZE1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog-imgs-43.fc2.com/r/e/a/readingmonkey/philofight.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "読書猿Classic: between / beyond readers  Gunosy News",
+      "og:description": "読書猿というメールマガジンがあった（本当のことをいうと今もある）。 年数で１０年を超えて、冊数で数百冊程度ではあるけれど、 最初の頃に取り上げた本など、記憶は鮮明に見えてどこか頼りなく、 手を伸ばせば届くかといえば、それも堆（うずたか）く積もった本を取りのけて、 いくらかの足場を拵えることができるかにかかっているといった塩梅だ。 虫干しのようなことを、この場所ではやろうと思う。 何人かの方[1]{...",
+      "og:url": "http://gunosy.com/g/g0ZE1",
+      "og:image": "http://blog-imgs-43.fc2.com/r/e/a/readingmonkey/philofight.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "dbMpqxw1lmipYIQEWFB5o0m59NlGW0VXvFDMRydY3CM="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "子ども時代の読書が大人の人生豊かに！ 調査で裏付け‐斎藤剛史 ...",
+   "htmlTitle": "子ども時代の読書が大人の人生豊かに！ 調査で裏付け‐斎藤剛史 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gSJIT",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=blogos blogos.com · 子ども時代の読書が大人の人生豊かに！   調査で裏付け‐斎藤剛史‐（ベネッセ教育情報サイト） - BLOGOS（ブロゴス）. 5月の大型  連休です。さまざまな予定があることでしょうが、子どもと一緒に読書する時間を加えて ...",
+   "htmlSnippet": "Favicons?domain=blogos blogos.com &middot; 子ども時代の読書が大人の人生豊かに！ \u003cbr\u003e  調査で裏付け‐斎藤剛史‐（ベネッセ教育情報サイト） - BLOGOS（ブロゴス）. 5月の大型\u003cbr\u003e  連休です。さまざまな予定があることでしょうが、子どもと一緒に読書する時間を加えて \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZLYyENMt2I0J",
+   "formattedUrl": "gunosy.com/g/gSJIT",
+   "htmlFormattedUrl": "gunosy.com/g/gSJIT",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://finalvent.cocolog-nifty.com/photos/blogimg/kokujisho.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "274",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB3O7Is8QMiJWW86aVqJLtmpLjHlnibtibie__gFEnZSvRDVOsQwfZYxrs"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "子ども時代の読書が大人の人生豊かに！　調査で裏付け‐斎藤剛史‐（ベネッセ教育情報サイト） - BLOGOS（ブロゴス） Gunosy News",
+      "og:description": "5月の大型連休です。さまざまな予定があることでしょうが、子どもと一緒に読書する時間を加えてみてはいかがでしょうか。というのも、子ども時代の読書経験が大人になってからの社会性や自己肯定感などに大きな影響...",
+      "og:url": "http://gunosy.com/g/gSJIT",
+      "og:image": "http://static.blogos.com/pc/image/common/og_thumbnail_image.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "zRpqKqiw4Mc24sLy3SXCueurvwF4+PobFLeENqq/9Cw="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "朝日新聞デジタル：ナパーム弾被害の少女、来日へ ゆるす心、4月に講演 ...",
+   "htmlTitle": "朝日新聞デジタル：ナパーム弾被害の少女、来日へ ゆるす心、4月に講演 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gIvb1",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=www.asahi www.asahi.com · 朝日新聞デジタル：ナパーム弾  被害の少女、来日へ ゆるす心、４月に講演 - 国際. 南ベトナム側によるナパーム弾の  爆撃を受け、裸で泣き叫びながら逃げる９歳のキム・フックさん（中央）。この写真は米 ...",
+   "htmlSnippet": "Favicons?domain=www.asahi www.asahi.com &middot; 朝日新聞デジタル：ナパーム弾\u003cbr\u003e  被害の少女、来日へ ゆるす心、４月に講演 - 国際. 南ベトナム側によるナパーム弾の\u003cbr\u003e  爆撃を受け、裸で泣き叫びながら逃げる９歳のキム・フックさん（中央）。この写真は米 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyHq1lTplxAJ",
+   "formattedUrl": "gunosy.com/g/gIvb1",
+   "htmlFormattedUrl": "gunosy.com/g/gIvb1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.asahicom.jp/international/update/0322/images/t_NGY201303220025.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "180",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUB7znab28ZV8LvNrAxjQRaY8XG4k37da2YEVXcPdL8Zw8emyFk6p1h5k"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "朝日新聞デジタル：ナパーム弾被害の少女、来日へ　ゆるす心、４月に講演 - 国際 Gunosy News",
+      "og:description": "南ベトナム側によるナパーム弾の爆撃を受け、裸で泣き叫びながら逃げる９歳のキム・フックさん（中央）。この写真は米ピュリツァー賞を受賞した＝１９７２年６月８日撮影、ＡＰ／アフロキム・フックさんと息子のトー...",
+      "og:url": "http://gunosy.com/g/gIvb1",
+      "og:image": "http://www.asahicom.jp/international/update/0322/images/t_NGY201303220025.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "apdpAXst1ifv6X1MjBYVqmUYFSzrlPq5tAp7ug81eQ0="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "暇な主婦が真昼間からダンス教室で腰をふっている映像に合わせて ...",
+   "htmlTitle": "暇な主婦が真昼間からダンス教室で腰をふっている映像に合わせて \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/RgnHT",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック ...",
+   "htmlSnippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8sowVwOEr7YJ",
+   "formattedUrl": "gunosy.com/g/RgnHT",
+   "htmlFormattedUrl": "gunosy.com/g/RgnHT",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog-imgs-54.fc2.com/m/i/x/mix2ch/tKW3z0j.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "171",
+      "height": "295",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNmtuMzjowKvi3s8TPkEAOmXVsL-kpCHBgM-5u00u2umZ3H6FHYr0Xkyo"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "暇な主婦が真昼間からダンス教室で腰をふっている映像に合わせて、旦那の病気が心配とかなんかとかいうナレーションが入るアフラックのがん保険の CM - 世界はあなたのもの。 Gunosy News",
+      "og:description": "記録, 映像奥さんと昼飯食いながら見た。俺も奥さんものけぞった。CM はまた YouTube い収録されていないので、リンク先より。＜もっとやさしいEVER＞TV-CM「フラダンス」篇｜アフラック い...",
+      "og:url": "http://gunosy.com/g/RgnHT",
+      "og:image": "http://d.hatena.ne.jp/images/diary/t/the-world-is-yours/titleimg.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "5WUbBJFP7KqyVAZ9aKlPi4dLQayCuX/m2f+5Go3jqYU="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "エベレストでシェルパが登山家に暴力 ネパール当局が調査 （CNN.co.jp ...",
+   "htmlTitle": "エベレストでシェルパが登山家に暴力 ネパール当局が調査 （CNN.co.jp \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/Rcdyq",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=headlines.yahoo.co headlines.yahoo.co.jp · エベレストで  シェルパが登山家に暴力 ネパール当局が調査 （CNN.co.jp） - Yahoo!ニュース.   カトマンズ（ＣＮＮ） 世界最高峰エベレストで登山家グループが案内役のシェルパから  暴力を受け ...",
+   "htmlSnippet": "Favicons?domain=headlines.yahoo.co headlines.yahoo.co.jp &middot; エベレストで\u003cbr\u003e  シェルパが登山家に暴力 ネパール当局が調査 （CNN.co.jp） - Yahoo!ニュース. \u003cbr\u003e  カトマンズ（ＣＮＮ） 世界最高峰エベレストで登山家グループが案内役のシェルパから\u003cbr\u003e  暴力を受け \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bVF2mQuIV9sJ",
+   "formattedUrl": "gunosy.com/g/Rcdyq",
+   "htmlFormattedUrl": "gunosy.com/g/Rcdyq",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://linuxdiary.tk/assets_c/2011/08/110812-1-thumb-256x199-1071.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "159",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwtLOpeLOiAzAZf1Idynu15cPke082hHKpM1u9I1sXXK99XYmi21oIn_m"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "エベレストでシェルパが登山家に暴力　ネパール当局が調査 （CNN.co.jp） - Yahoo!ニュース Gunosy News",
+      "og:description": "カトマンズ（ＣＮＮ）　世界最高峰エベレストで登山家グループが案内役のシェルパから暴力を受けたと報告したことを受け、ネパール当局が調査を開始したことが３０日までに分かった。 登山運営会社によると、イタリ...",
+      "og:url": "http://gunosy.com/g/Rcdyq",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "HvQ1wlBPEjt8mvpsfUhws7CyP19yCi0QfOTm4tspLPQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ポータブルかつWindowsでの利用に最適化されたgVim「gVim Portable ...",
+   "htmlTitle": "ポータブルかつWindowsでの利用に最適化されたgVim「gVim Portable \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gegtg",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=www.moongift www.moongift.jp · ポータブルかつWindowsでの  利用に最適化されたgVim「gVim Portable Enhanced」 - MOONGIFT|オープンソース・  ソフトウェア紹介を軸としたITエンジニア、Webデザイナー向けブログ. Vimは高機能な ...",
+   "htmlSnippet": "Favicons?domain=www.moongift www.moongift.jp &middot; ポータブルかつWindowsでの\u003cbr\u003e  利用に最適化されたgVim「gVim Portable Enhanced」 - MOONGIFT|オープンソース・\u003cbr\u003e  ソフトウェア紹介を軸としたITエンジニア、Webデザイナー向けブログ. Vimは高機能な \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cU96dkgYHf0J",
+   "formattedUrl": "gunosy.com/g/gegtg",
+   "htmlFormattedUrl": "gunosy.com/g/gegtg",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/images/img-ogp-logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "ポータブルかつWindowsでの利用に最適化されたgVim「gVim Portable Enhanced」 - MOONGIFT|オープンソース・ソフトウェア紹介を軸としたITエンジニア、Webデザイナー向けブログ Gunosy News",
+      "og:description": "Vimは高機能なテキストエディタです。LinuxのみならずWindowsでも使えますが、それでもベースはLinux向けでWindowsで使う際には色々なプラグインなどをインストールするでしょう。そこで最初からWindowsに対して便利な機能、設定を追加したgVim Portable Enhancedを紹介します。 0",
+      "og:url": "http://gunosy.com/g/gegtg",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "z69e3Xz8lU9m2XdbfUo1leFkBERo5tb/XtK7ZRrANEY="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ニュース - auのiPhoneメール障害が復旧、原因はメールサーバー62台の ...",
+   "htmlTitle": "ニュース - auのiPhoneメール障害が復旧、原因はメールサーバー62台の \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gQv49",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=itpro.nikkeibp.co itpro.nikkeibp.co.jp · ニュース - auのiPhone  メール障害が復旧、原因はメールサーバー62台のダウン：ITpro. KDDIは2013年4月16  日、同日8時8分から発生していたiPhoneおよびiPadのメールの障害（関連記事）が、13 ...",
+   "htmlSnippet": "Favicons?domain=itpro.nikkeibp.co itpro.nikkeibp.co.jp &middot; ニュース - auのiPhone\u003cbr\u003e  メール障害が復旧、原因はメールサーバー62台のダウン：ITpro. KDDIは2013年4月16\u003cbr\u003e  日、同日8時8分から発生していたiPhoneおよびiPadのメールの障害（関連記事）が、13 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ioGGKGj7oN4J",
+   "formattedUrl": "gunosy.com/g/gQv49",
+   "htmlFormattedUrl": "gunosy.com/g/gQv49",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://weekly.ascii.jp/elem/000/000/138/138672/130416gian_logicool007_200x.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9JG94NBFZErP00KJOBwMjgvGCJ8NezKSJgubFnxTWExJ77BvM8coJw"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "ニュース - auのiPhoneメール障害が復旧、原因はメールサーバー62台のダウン：ITpro Gunosy News",
+      "og:description": "KDDIは2013年4月16日、同日8時8分から発生していたiPhoneおよびiPadのメールの障害（関連記事）が、13時29分に復旧したと発表した。原因はメールサーバーのダウンという。 同社によれば...",
+      "og:url": "http://gunosy.com/g/gQv49",
+      "og:image": "http://itpro.nikkeibp.co.jp/images/itpro/2011/leaf/itprosns.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "nPfrNA+U/VaXiqsrbq2Jm0DEGkeCQRQ7AVAdQembyuM="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "「ブラタモリ」の作り方（2）〜企画を通すには、「おもしろい要素」がなんだっ ...",
+   "htmlTitle": "「ブラタモリ」の作り方（2）〜企画を通すには、「おもしろい要素」がなんだっ \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gnJP5",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな  パーソナルマガジンです。",
+   "htmlSnippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント\u003cbr\u003e  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな\u003cbr\u003e  パーソナルマガジンです。",
+   "cacheId": "nvSVBOhErCkJ",
+   "formattedUrl": "gunosy.com/g/gnJP5",
+   "htmlFormattedUrl": "gunosy.com/g/gnJP5",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lifehacker.jp/upload_files/13042402b.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "「ブラタモリ」の作り方（2）〜企画を通すには、「おもしろい要素」がなんだったのかを的確に伝える : ライフハッカー［日本版］ Gunosy News",
+      "og:description": "アイデア , コミュニケーション , ビジネスマナー , モチベーション , 仕事がはかどる , 仕事術 「ブラタモリ」の作り方（2）〜企画を通すには、「おもしろい要素」がなんだったのかを的確に伝える...",
+      "og:url": "http://gunosy.com/g/gnJP5",
+      "og:image": "http://www.lifehacker.jp/upload_files/13042402b.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Iz92ouYiwXJrhBVjKvMtwHfv0geQgm8ny8dY/GSQ9Tk="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "【画像】ダークサイドに墜ちたディズニー・プリンセスたちを描いた ...",
+   "htmlTitle": "【画像】ダークサイドに墜ちたディズニー・プリンセスたちを描いた \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gCVm9",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=www.kotaro269 www.kotaro269.com · 【画像】ダークサイドに  墜ちたディズニー・プリンセスたちを描いた、ジェフリー・トーマスのアートイラスト18枚.   もしもディスニーのプリンセスたちがダークサイドに墜ちてしまったら……という設定で  描か ...",
+   "htmlSnippet": "Favicons?domain=www.kotaro269 www.kotaro269.com &middot; 【画像】ダークサイドに\u003cbr\u003e  墜ちたディズニー・プリンセスたちを描いた、ジェフリー・トーマスのアートイラスト18枚. \u003cbr\u003e  もしもディスニーのプリンセスたちがダークサイドに墜ちてしまったら……という設定で\u003cbr\u003e  描か \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X87WFwugzA0J",
+   "formattedUrl": "gunosy.com/g/gCVm9",
+   "htmlFormattedUrl": "gunosy.com/g/gCVm9",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://livedoor.blogimg.jp/kotaro269/imgs/8/4/848577ff.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "【画像】ダークサイドに墜ちたディズニー・プリンセスたちを描いた、ジェフリー・トーマスのアートイラスト18枚 Gunosy News",
+      "og:description": "もしもディスニーのプリンセスたちがダークサイドに墜ちてしまったら……という設定で描かれた、ジェフリー・トーマスによるアートイラスト18枚。 7人の邪悪な小人を従えた白雪姫に、失われた超古代文明の力を駆使するプリンセス・キーダ、冥界の力で死者を操るメガラなど、どのプリンセスも相当戦闘力高そうなイメージ。 ディズニーが定義するディズニープリンセスだけではなくて、ジェーンやエスメラルダみたいにディズニー...",
+      "og:url": "http://gunosy.com/g/gCVm9",
+      "og:image": "http://livedoor.blogimg.jp/kotaro269/imgs/8/4/848577ff.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "1tCxQunm5sAGj6KazoVrVz06f9RiYOq+zJ+R4U4UMBg="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "貯まらない人の最大の違いは「習慣化」である - Gunosy（グノシー）",
+   "htmlTitle": "貯まらない人の最大の違いは「習慣化」である - Gunosy（グノシー）",
+   "link": "http://gunosy.com/g/godC5",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=attrip attrip.jp · お金がしっかり貯まっていく人と、貯まらない人の  最大の違いは「習慣化」である | A!@attrip. お金を使わないというより、投資のために  使うというのを理解しないとどんどん貧乏になると思う。 例えば、僕の場合は、iPad   iPad ...",
+   "htmlSnippet": "Favicons?domain=attrip attrip.jp &middot; お金がしっかり貯まっていく人と、貯まらない人の\u003cbr\u003e  最大の違いは「習慣化」である | A!@attrip. お金を使わないというより、投資のために\u003cbr\u003e  使うというのを理解しないとどんどん貧乏になると思う。 例えば、僕の場合は、iPad \u003cbr\u003e  iPad \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QA4YyPJvtDgJ",
+   "formattedUrl": "gunosy.com/g/godC5",
+   "htmlFormattedUrl": "gunosy.com/g/godC5",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/83409953-1330739329.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "お金がしっかり貯まっていく人と、貯まらない人の最大の違いは「習慣化」である | A!@attrip Gunosy News",
+      "og:description": "お金を使わないというより、投資のために使うというのを理解しないとどんどん貧乏になると思う。 例えば、僕の場合は、iPad iPadは、約５万円 もしあなたが５万円のこのiPadで5万円以上のお金を手に入れることが出来なかったら、これは浪費である。５万円分くらいつかったなら消費。 5万円以上のお金を手に入れたなら投資なのである。 つまり。 ぼくが、iPad3を買うのは、投資である。 と。。。嫁に説明...",
+      "og:url": "http://gunosy.com/g/godC5",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/83409953-1330739329.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "3biQHM5fS3o8yWyoYSS0IZ9BDmCRQUa5VtrrdrcYSxk="
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,509 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 81,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 71,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.165158,
+  "formattedSearchTime": "0.17",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "秋ストールトレンド4種巻き徹底マスター：日経ウーマンオンライン ...",
+   "htmlTitle": "秋ストールトレンド4種巻き徹底マスター：日経ウーマンオンライン \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gQwBI",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=wol.nikkeibp.co wol.nikkeibp.co.jp · 秋ストールトレンド4種巻き  徹底マスター：日経ウーマンオンライン【アラサー的ファッション戦略論】. 上半身に  ボリュームを持たせる着こなしがこの秋冬はもてはやされそう。ニットやアウターなどで  膨らみを ...",
+   "htmlSnippet": "Favicons?domain=wol.nikkeibp.co wol.nikkeibp.co.jp &middot; 秋ストールトレンド4種巻き\u003cbr\u003e  徹底マスター：日経ウーマンオンライン【アラサー的ファッション戦略論】. 上半身に\u003cbr\u003e  ボリュームを持たせる着こなしがこの秋冬はもてはやされそう。ニットやアウターなどで\u003cbr\u003e  膨らみを \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "19R0gedxo8QJ",
+   "formattedUrl": "gunosy.com/g/gQwBI",
+   "htmlFormattedUrl": "gunosy.com/g/gQwBI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://prtimes.jp/i/6517/1/resize/d6517-1-301388-0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqPC-CUYj6oavxQitQ6KtvssBFQ1WnY7B9PzrJlxklT8GKeTgZ_Zx18z0"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "秋ストールトレンド4種巻き徹底マスター：日経ウーマンオンライン【アラサー的ファッション戦略論】 Gunosy News",
+      "og:description": "上半身にボリュームを持たせる着こなしがこの秋冬はもてはやされそう。ニットやアウターなどで膨らみをもたせるスタイルに注目が集まる。そのぶん、腰から下をすっきりまとめれば、全身のプロポーションがシャープに映る。ならば、ストールを使わない手はない。ストールにたっぷり空気を含ませてまとえば、やわらかいふくらみが生まれ、装いに華やぎもプラスしてくれる。 ◆おしゃれエディター巻きアレンジ 日本でもストールがお...",
+      "og:url": "http://gunosy.com/g/gQwBI",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "+cNPbDsEcU6qSeGkovIEi+KWflALBGHQp1YS7fh/cD8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のnosix369のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のnosix369のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/nosix369",
+   "displayLink": "gunosy.com",
+   "snippet": "居酒屋に行くとついつい頼んでしまう“定番メニュー”、実は自分でも簡単に作ることが  できます。今日は、「大根サラダ」や「だし巻き卵」「軟骨のから揚げ」など、“居酒屋  メニュー”のレシピを集めてみました。 ＜土間土間風「やみつき塩キャベツ」＞ ▽ 土間  土間風「 ...",
+   "htmlSnippet": "居酒屋に行くとついつい頼んでしまう“定番メニュー”、実は自分でも簡単に作ることが\u003cbr\u003e  できます。今日は、「大根サラダ」や「だし巻き卵」「軟骨のから揚げ」など、“居酒屋\u003cbr\u003e  メニュー”のレシピを集めてみました。 ＜土間土間風「やみつき塩キャベツ」＞ ▽ 土間\u003cbr\u003e  土間風「 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kEBZR5Bjs0MJ",
+   "formattedUrl": "gunosy.com/2012/nosix369",
+   "htmlFormattedUrl": "gunosy.com/2012/nosix369",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.yimg.jp/images/map/yolp/site/blog/2012/airport_01.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "222",
+      "height": "227",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05NqxOI51hIuUY06027HVpMVfV8OxkX8AlRA2eDOhIRiqb5htQoaKmggJ"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のnosix369のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/nosix369",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "bgzIRMFUuzv4dUdR8P3q9hgbf4scDmaTeh7d8KB+5Xs="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のmykadcのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のmykadcのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/mykadc",
+   "displayLink": "gunosy.com",
+   "snippet": "Btn-fb-share_rollover. Favicons?domain=hamachiya hamachiya.com ·   drunkergift 〜タダ酒支援プラットフォーム〜. 酒を飲みたくても働きたくはない… 酒代が  足りず安酒に走ってしまう…そんなニートがくだを巻きながら、タダ酒を支援してくれる  サポーターを ...",
+   "htmlSnippet": "Btn-fb-share_rollover. Favicons?domain=hamachiya hamachiya.com &middot; \u003cbr\u003e  drunkergift 〜タダ酒支援プラットフォーム〜. 酒を飲みたくても働きたくはない… 酒代が\u003cbr\u003e  足りず安酒に走ってしまう…そんなニートがくだを巻きながら、タダ酒を支援してくれる\u003cbr\u003e  サポーターを \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w3WNvLPRG60J",
+   "formattedUrl": "gunosy.com/2012/mykadc",
+   "htmlFormattedUrl": "gunosy.com/2012/mykadc",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のmykadcのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/mykadc",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "mAb6p7GTIKHkSuiCQT+jgiP+wTjCLmBoZR7LZD7wW9Y="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "憲法96条の改正発議要件が厳しすぎるから国民投票できないというデマ ...",
+   "htmlTitle": "憲法96条の改正発議要件が厳しすぎるから国民投票できないというデマ \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/g4AA1",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=blog.goo.ne blog.goo.ne.jp · 憲法96条の改正発議要件が厳し  すぎるから国民投票できないというデマ 同じく厳しい米独仏は戦後95回改正 -   Everyone says I love you ! 日本国憲法「改正」の第一歩として改憲手続きを定めた  憲法９６条の ...",
+   "htmlSnippet": "Favicons?domain=blog.goo.ne blog.goo.ne.jp &middot; 憲法96条の改正発議要件が厳し\u003cbr\u003e  すぎるから国民投票できないというデマ 同じく厳しい米独仏は戦後95回改正 - \u003cbr\u003e  Everyone says I love you ! 日本国憲法「改正」の第一歩として改憲手続きを定めた\u003cbr\u003e  憲法９６条の \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GcceXr8MefQJ",
+   "formattedUrl": "gunosy.com/g/g4AA1",
+   "htmlFormattedUrl": "gunosy.com/g/g4AA1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://diamond.jp/mwimgs/f/b/-/img_fbb7333e50ecaa48ff23c5c4d8fc11b5105490.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "210",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwdCINj7moiMWhi5UTJrE2qVh35KsSH8UggBgcAgrjwyRCEr4VdyfdRGI"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "憲法96条の改正発議要件が厳しすぎるから国民投票できないというデマ　同じく厳しい米独仏は戦後95回改正 - Everyone says I love you ! Gunosy News",
+      "og:description": "日本国憲法「改正」の第一歩として改憲手続きを定めた憲法９６条の改定をねらう動きが強まっています。安倍首相は２０１３年４月２３日に、 「当然、この7月の参議院選挙においてもですね、われわれは堂々と、96...",
+      "og:url": "http://gunosy.com/g/g4AA1",
+      "og:image": "http://blogimg.gw.mobile.goo.ne.jp/thumbnail/49/e4/97ef60579fbf4e06c02d895a46d781b8_s.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "oDXhf3L8yMUuvRoJcv5+iQXnNcLoXlW8Kyysza+/NrQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "特別レポート 『朝日』とか、民主党とか「アベノミクスよ、こけろ!」と祈る人 ...",
+   "htmlTitle": "特別レポート 『朝日』とか、民主党とか「アベノミクスよ、こけろ!」と祈る人 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/g1MY5",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=gendai.ismedia gendai.ismedia.jp · 特別レポート 『朝日』とか、  民主党とか「アベノミクスよ、こけろ!」と祈る人たちそのメンタリティ 他人の失敗を待って  いる、イヤな雰囲気 | 経済の死角 | 現代ビジネス [講談社]. 日本経済にこれほど前向き  な ...",
+   "htmlSnippet": "Favicons?domain=gendai.ismedia gendai.ismedia.jp &middot; 特別レポート 『朝日』とか、\u003cbr\u003e  民主党とか「アベノミクスよ、こけろ!」と祈る人たちそのメンタリティ 他人の失敗を待って\u003cbr\u003e  いる、イヤな雰囲気 | 経済の死角 | 現代ビジネス [講談社]. 日本経済にこれほど前向き\u003cbr\u003e  な \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yuBkYBT94VoJ",
+   "formattedUrl": "gunosy.com/g/g1MY5",
+   "htmlFormattedUrl": "gunosy.com/g/g1MY5",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gendai.ismedia.jp/mwimgs/4/b/-/img_4b47e5e1cc2a34c456bed296755d9f04106900.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "229",
+      "height": "221",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7Xv4rAuFy7FFsA8zmXWTm4EhlpCp62vDsjEgDvTlTqj3VgJDjV-0YWFW"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "特別レポート　『朝日』とか、民主党とか「アベノミクスよ、こけろ!」と祈る人たちそのメンタリティ　他人の失敗を待っている、イヤな雰囲気 | 経済の死角 | 現代ビジネス [講談社] Gunosy News",
+      "og:description": "日本経済にこれほど前向きな雰囲気が漂うのは何年ぶりのことだろう。ところが、人々が明るい表情をするのが、なぜか気に食わない勢力がいる。彼らは何をどう考え、この空気に水を差しているのか",
+      "og:url": "http://gunosy.com/g/g1MY5",
+      "og:image": "http://gendai.ismedia.jp/mwimgs/5/3/-/img_53724f8c4f09aee8081d2be850a2c3cd15114.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "kAiFybg74kDB+L4f7rFb9y7/Qpgf3lMUeSmIF3WtRiE="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013年も確実にお世話になる素晴らしいWordPressプラグイン40個 ...",
+   "htmlTitle": "2013年も確実にお世話になる素晴らしいWordPressプラグイン40個 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/ghFz3",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=room402 room402.biz · 2013年も確実にお世話になる素晴らしい  WordPressプラグイン40個 | room402.biz. 2013年も確実にお世話になるであろう  WordPressプラグインを一挙40個、纏めてご紹介しています。アクセスアップやSEO、 ...",
+   "htmlSnippet": "Favicons?domain=room402 room402.biz &middot; 2013年も確実にお世話になる素晴らしい\u003cbr\u003e  WordPressプラグイン40個 | room402.biz. 2013年も確実にお世話になるであろう\u003cbr\u003e  WordPressプラグインを一挙40個、纏めてご紹介しています。アクセスアップやSEO、 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zp-zSGPsbJkJ",
+   "formattedUrl": "gunosy.com/g/ghFz3",
+   "htmlFormattedUrl": "gunosy.com/g/ghFz3",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://design-plus1.com/tcd-w/wp-content/uploads/2012/11/theme_my_login00.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "234",
+      "height": "145",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUsL-Az47zVolAByASAQ0iAHMmsWwlOmyo_55TGZ40QJoKqL76AU8JUyU"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013年も確実にお世話になる素晴らしいWordPressプラグイン40個 | room402.biz Gunosy News",
+      "og:description": "2013年も確実にお世話になるであろうWordPressプラグインを一挙40個、纏めてご紹介しています。アクセスアップやSEO、セキュリティーやユーザービリティーを考慮したラインナップになりました。WordPressを利用し始めて、早三年が経過しました。 2013年にもなった事ですので、今の時点で愛用しているマイ・ベストWrdPressプラグインを纏めてみたいと思います。 2012年から随分と入れ...",
+      "og:url": "http://gunosy.com/g/ghFz3",
+      "og:image": "http://room402.biz/wp-content/uploads/baby-golden-retriever-150x150.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "+SykBzLtf3MdCzcqvIV/KPuvUAkzdxrT056dShhMiY4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "院志望ですが、大学院でのアカハラ・パワハラは本当に存在しますか ...",
+   "htmlTitle": "院志望ですが、大学院でのアカハラ・パワハラは本当に存在しますか \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gZaE9",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック ...",
+   "htmlSnippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GxMnLhiK35IJ",
+   "formattedUrl": "gunosy.com/g/gZaE9",
+   "htmlFormattedUrl": "gunosy.com/g/gZaE9",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/60342174-1316826072.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "院志望ですが、大学院でのアカハラ・パワハラは本当に存在しますか？具体的な内容を教えてください！ - 高史明(たかふみあき)インタビュー Gunosy News",
+      "og:description": "至るところにありますよ。 ともかく研究室選びで重視しなければならないのは教員の人格ですね。邪魔さえされなければ、たとえ教員が無能でも研究はできるので。もちろん両方備わっていればいいけど、有能だけど人格が備わっていない教員は学生を搾取したりするので、どっちがいいかといえば人格。 さて、不幸にも私がついてしまった教員は、人格も能力も破滅的な教員でした。 なにせ、研究をしない。そのくせ仕事は強要する。論...",
+      "og:url": "http://gunosy.com/g/gZaE9",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/60342174-1316826072.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "andvwOVk5z63uBvzGhVvJ8N57hbY/4CSyiDHkQe+/hs="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "奥村隆「息子と僕のアスペルガー物語」【第24回】 息子が学習塾に ...",
+   "htmlTitle": "奥村隆「息子と僕のアスペルガー物語」【第24回】 息子が学習塾に \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/gunaw",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック ...",
+   "htmlSnippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WsdS_DDSckYJ",
+   "formattedUrl": "gunosy.com/g/gunaw",
+   "htmlFormattedUrl": "gunosy.com/g/gunaw",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shimajiro-mobiler.net/wp-content/uploads/2013/04/0402_Analog_Tools.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_OHh_QyhubgSHIsWBhYX939WkijF_LsVhD-IEJV-VkhgGQH2bzn2H3aw"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "奥村隆「息子と僕のアスペルガー物語」【第24回】　息子が学習塾に突きつけた「3つの条件」に仰天した　 | 奥村隆「息子と僕のアスペルガー物語」 | 現代ビジネス [講談社] Gunosy News",
+      "og:description": "【第23回】はこちらをご覧ください。 新しい塾に通うのを極度に怖がる息子 年度が替わるこの時期、僕のようにテレビ番組制作に携わっている人間は非常に忙しい。言うまでもなく、年度のスタートに合わせて、番組...",
+      "og:url": "http://gunosy.com/g/gunaw",
+      "og:image": "http://gunosy.com/images/img-ogp-logo.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "o3e6yx38llacJJn4OGAAuMlQJ+K2j5cRg5xdhQX1+sQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GWはじっくり腰を据えてスキルアップ！おさらいして読みたい、技術系お ...",
+   "htmlTitle": "GWはじっくり腰を据えてスキルアップ！おさらいして読みたい、技術系お \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/g7709",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=liginc.co liginc.co.jp · GWはじっくり腰を据えてスキルアップ！お  さらいして読みたい、技術系お役立ち記事まとめ | 株式会社LIG. こんにちは、GW前半に  意を決して体組成計を購入し、体重・BMI・体脂肪率、内臓脂肪など、数々の恐ろしい ...",
+   "htmlSnippet": "Favicons?domain=liginc.co liginc.co.jp &middot; GWはじっくり腰を据えてスキルアップ！お\u003cbr\u003e  さらいして読みたい、技術系お役立ち記事まとめ | 株式会社LIG. こんにちは、GW前半に\u003cbr\u003e  意を決して体組成計を購入し、体重・BMI・体脂肪率、内臓脂肪など、数々の恐ろしい \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UUX4ig4TtY8J",
+   "formattedUrl": "gunosy.com/g/g7709",
+   "htmlFormattedUrl": "gunosy.com/g/g7709",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.mynavi.jp/news/2013/04/24/066/index.iapp.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "232",
+      "height": "217",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3vQUlLrTGjkxV093vxOYn63-OpqdduWdZWehrIqnXvpASgRxYmDB1-k4"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "GWはじっくり腰を据えてスキルアップ！おさらいして読みたい、技術系お役立ち記事まとめ | 株式会社LIG Gunosy News",
+      "og:description": "こんにちは、GW前半に意を決して体組成計を購入し、体重・BMI・体脂肪率、内臓脂肪など、数々の恐ろしい数値があらわになったメディア事業部のあゆみです。体内年齢は27歳（実年齢＋2歳）…恐怖のあまり、即...",
+      "og:url": "http://gunosy.com/g/g7709",
+      "og:image": "http://211.125.65.24/wp-content/uploads/2013/05/必読！5分でわかる流行のレスポンシブWebデザインまとめ.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "rww3W3CPJwsbDl1zNGra6vvmXcsJhLISHQ/W0KXc62c="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "米フェイスブック：1～3月売上高、市場予想上回る - Bloomberg Gunosy",
+   "htmlTitle": "米フェイスブック：1～3月売上高、市場予想上回る - Bloomberg Gunosy",
+   "link": "http://gunosy.com/g/gRXL5",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=www.bloomberg.co www.bloomberg.co.jp · 米フェイスブック：１  ～３月売上高、市場予想上回る - Bloomberg. ５月１日（ブルームバーグ）：ソーシャル・  ネットワーク・サービス（ＳＮＳ）最大手、米フェイスブックの１－３月（第１四半期）売上高 ...",
+   "htmlSnippet": "Favicons?domain=www.bloomberg.co www.bloomberg.co.jp &middot; 米フェイスブック：１\u003cbr\u003e  ～３月売上高、市場予想上回る - Bloomberg. ５月１日（ブルームバーグ）：ソーシャル・\u003cbr\u003e  ネットワーク・サービス（ＳＮＳ）最大手、米フェイスブックの１－３月（第１四半期）売上高 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dFI9jN1qJX0J",
+   "formattedUrl": "gunosy.com/g/gRXL5",
+   "htmlFormattedUrl": "gunosy.com/g/gRXL5",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bloomberg.co.jp/apps/data?pid=avimage&iid=ikaFY6ZlOr0E"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQjZo-d1MyG9x9_2Xe9I-4LSApQa4B7qOFFwUYPezMAtusdf9kTV0abUc"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "米フェイスブック：１～３月売上高、市場予想上回る - Bloomberg Gunosy News",
+      "og:description": "５月１日（ブルームバーグ）：ソーシャル・ネットワーク・サービス（ＳＮＳ）最大手、米フェイスブックの１－３月（第１四半期）売上高はアナリストの予想を上回った。新しい機能やモバイル広告ツールがより多くのマ...",
+      "og:url": "http://gunosy.com/g/gRXL5",
+      "og:image": "http://www.bloomberg.co.jp/apps/data?pid=avimage&iid=ikaFY6ZlOr0E",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Tnf6dG2KeA79m1JXm2QOHolHVMUszaS404osIzLjfJM="
+     }
+    ]
+   }
+  }
+ ]
+}

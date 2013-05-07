@@ -1,0 +1,499 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 61,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 51,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 41,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.102471,
+  "formattedSearchTime": "0.10",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のinter69のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のinter69のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/inter69",
+   "displayLink": "gunosy.com",
+   "snippet": "webサービスを作ろう！といつも思いながら 結局、なんだかんだでまだスタートできてい  ません(^^;) 今回は、そんな筆者がwebサービスの作成を考えた時に 本当に参考になっ  た記事をランキング付けしてみました。 なかなか敷居が高くて一歩目が踏み出しづらい ...",
+   "htmlSnippet": "webサービスを作ろう！といつも思いながら 結局、なんだかんだでまだスタートできてい\u003cbr\u003e  ません(^^;) 今回は、そんな筆者がwebサービスの作成を考えた時に 本当に参考になっ\u003cbr\u003e  た記事をランキング付けしてみました。 なかなか敷居が高くて一歩目が踏み出しづらい \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YLDEEGx05rwJ",
+   "formattedUrl": "gunosy.com/2012/inter69",
+   "htmlFormattedUrl": "gunosy.com/2012/inter69",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のinter69のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/inter69",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "yFNWlx7cuBLNLxkt6crJEWywU1dUCUotcXZyFYFsvE4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のTocho_TwitPressのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のTocho_TwitPressのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/Tocho_TwitPress",
+   "displayLink": "gunosy.com",
+   "snippet": "twitter最近、twitterで人気のツイートを無断転載するbotが多発しています。 中には上の  ような、広告をツイートする事でお金儲けをしようとするアカウントもあります。 他人の  ツイートを無断転載して増やしたフォロワーを利用してお金儲けをしているのです。 その  よう ...",
+   "htmlSnippet": "twitter最近、twitterで人気のツイートを無断転載するbotが多発しています。 中には上の\u003cbr\u003e  ような、広告をツイートする事でお金儲けをしようとするアカウントもあります。 他人の\u003cbr\u003e  ツイートを無断転載して増やしたフォロワーを利用してお金儲けをしているのです。 その\u003cbr\u003e  よう \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J049nO1bpsUJ",
+   "formattedUrl": "gunosy.com/2012/Tocho_TwitPress",
+   "htmlFormattedUrl": "gunosy.com/2012/Tocho_TwitPress",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/89171714-1334112815.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSqkW5UAiC9z5qhdADwwIxvIGFqAJ47jZLdq0QeeBy3BZg7mqrlZ4N"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のTocho_TwitPressのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/Tocho_TwitPress",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Wg/cSQr7jqHh8zydWAWHxcZuLYWdWJNBTjOX1CNXDbU="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のhayashikejinanのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のhayashikejinanのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/hayashikejinan",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy 2012 for hayashikejinan. 2012年のGunosyまとめをシェアする.   Ico_facebook_16px Share. Ico_twitter_16px Tweet. 意外と知らない？アイコンは  Webフォントでつくるとこんなに便利！ | KAYAC DESIGNERS BLOG - デザインや  マークアップの話 ...",
+   "htmlSnippet": "Gunosy 2012 for hayashikejinan. 2012年のGunosyまとめをシェアする. \u003cbr\u003e  Ico_facebook_16px Share. Ico_twitter_16px Tweet. 意外と知らない？アイコンは\u003cbr\u003e  Webフォントでつくるとこんなに便利！ | KAYAC DESIGNERS BLOG - デザインや\u003cbr\u003e  マークアップの話 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FX0VpY1uFk4J",
+   "formattedUrl": "gunosy.com/2012/hayashikejinan",
+   "htmlFormattedUrl": "gunosy.com/2012/hayashikejinan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=device-width",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のhayashikejinanのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/hayashikejinan",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "0K+58fOVVmpEAQLQFDQV1QQ93NrBOe/3sgHubNeZnQQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のblackinariのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のblackinariのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/blackinari",
+   "displayLink": "gunosy.com",
+   "snippet": "［Mac保存版］Macユーザーなら絶対に保存するべき有益すぎるTipsや環境設定、アプリ  の記事２２選まとめ January 27, 201219:28 ツイート 今回はMacに関する有益になり  すぎる情報をみなさんに提供したいと思い、まとめてみました。少し量が多いですが、 ...",
+   "htmlSnippet": "［Mac保存版］Macユーザーなら絶対に保存するべき有益すぎるTipsや環境設定、アプリ\u003cbr\u003e  の記事２２選まとめ January 27, 201219:28 ツイート 今回はMacに関する有益になり\u003cbr\u003e  すぎる情報をみなさんに提供したいと思い、まとめてみました。少し量が多いですが、 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "81ccoAzyPX0J",
+   "formattedUrl": "gunosy.com/2012/blackinari",
+   "htmlFormattedUrl": "gunosy.com/2012/blackinari",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://antarespc.com/wp-content/uploads/2012/10/FLVtoMP4.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "320",
+      "height": "152",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn_fpbtwbhU9KEW55NC4qGXvizoS8XK9TWj5b1O05nmRKSjg7cdR3SA_s"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のblackinariのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/blackinari",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "gClHKtvd4K2JTcDIrBSr3M9bk3YutzoBpcmDQ/tnwzc="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のdeathcapeのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のdeathcapeのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/deathcape",
+   "displayLink": "gunosy.com",
+   "snippet": "2012年6月13日 ... Ｇｍａｉｌのメールアドレスといえば、「xxx@gmai.com」しか使えないと思い込んでいない  だろうか。ＧｏｏｇｌｅＡｐｐｓに独自ドメインを登録すれば、「xxx.@xxx.com」といった風に、  徹頭徹尾、完全オリジナルな自分のだけのメールアドレスを利用できる ...",
+   "htmlSnippet": "2012年6月13日 \u003cb\u003e...\u003c/b\u003e Ｇｍａｉｌのメールアドレスといえば、「xxx@gmai.com」しか使えないと思い込んでいない\u003cbr\u003e  だろうか。ＧｏｏｇｌｅＡｐｐｓに独自ドメインを登録すれば、「xxx.@xxx.com」といった風に、\u003cbr\u003e  徹頭徹尾、完全オリジナルな自分のだけのメールアドレスを利用できる \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aVx_ayGx8dUJ",
+   "formattedUrl": "gunosy.com/2012/deathcape",
+   "htmlFormattedUrl": "gunosy.com/2012/deathcape",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.b.hatena.ne.jp/entryimage/articles/8850-1337573612.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "210",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZLzDQW11gep4bbf7C8mzrR4aY0tQVd7r4GnAhdRX06j0RRbR6dVnVByA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のdeathcapeのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/deathcape",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ClGPYKQVNsW/Dx5zKfS63TDypJUAH1TstYg7Ji4La+E="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のsyunsukekusanagiのGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のsyunsukekusanagiのGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/syunsukekusanagi",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=gigazine gigazine.net · 自分のサイトの表示を5種のブラウザで  チェックできるネットサービス「browserling」 - GIGAZINE. サイトのURLを入力すれば、  わざわざ全種類・全バージョンのブラウザ環境をそろえることなく、、無料でバージョン ...",
+   "htmlSnippet": "Favicons?domain=gigazine gigazine.net &middot; 自分のサイトの表示を5種のブラウザで\u003cbr\u003e  チェックできるネットサービス「browserling」 - GIGAZINE. サイトのURLを入力すれば、\u003cbr\u003e  わざわざ全種類・全バージョンのブラウザ環境をそろえることなく、、無料でバージョン \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CTlvBjCrEbwJ",
+   "formattedUrl": "gunosy.com/2012/syunsukekusanagi",
+   "htmlFormattedUrl": "gunosy.com/2012/syunsukekusanagi",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nttdocomo.co.jp//info/news_release/common/sakuji/ryuji.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "24",
+      "height": "11",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY8Y36HnwIA4Ace3PQLFFI2Tblti5arRHpUqFZ8nBOeMLdDQrYBcX-_A"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のsyunsukekusanagiのGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/syunsukekusanagi",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "YdMt6Rp1uTEU5k0RVE2FnewhOFWqXkkWs5YhG2jYS58="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のtenten0213のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のtenten0213のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/tenten0213",
+   "displayLink": "gunosy.com",
+   "snippet": "最近はスクロールするときにいろいろ仕掛けをするのが流行なようです。 ここでは  シンプルにある要素の位置とか最下部までスクロールしたら何か表示するということを  やってみます。 ちょっとスクロールするとフェードして「トップへ戻るボタン」を表示を表示し  ます。",
+   "htmlSnippet": "最近はスクロールするときにいろいろ仕掛けをするのが流行なようです。 ここでは\u003cbr\u003e  シンプルにある要素の位置とか最下部までスクロールしたら何か表示するということを\u003cbr\u003e  やってみます。 ちょっとスクロールするとフェードして「トップへ戻るボタン」を表示を表示し\u003cbr\u003e  ます。",
+   "cacheId": "6M9mdt6qeIIJ",
+   "formattedUrl": "gunosy.com/2012/tenten0213",
+   "htmlFormattedUrl": "gunosy.com/2012/tenten0213",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/ogp.png"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のtenten0213のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/tenten0213",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "LSZmIoy95PXw4omBtwGOiMWv32BGK5QFek335HFjGLU="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のshogo1224のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のshogo1224のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/shogo1224",
+   "displayLink": "gunosy.com",
+   "snippet": "#sample { width:500px; font-size: 16px; color:#333333; background:#d6e5f5;   padding:20px; } #sample li { list-style-type : none; padding:5px 10px; border-  bottom:1px solid #84b2e0; } 1. 下に薄いラインを追加してみる こ... Btn-tw-  tweet_rollover ...",
+   "htmlSnippet": "#sample { width:500px; font-size: 16px; color:#333333; background:#d6e5f5; \u003cbr\u003e  padding:20px; } #sample li { list-style-type : none; padding:5px 10px; border-\u003cbr\u003e  bottom:1px solid #84b2e0; } 1. 下に薄いラインを追加してみる こ... Btn-tw-\u003cbr\u003e  tweet_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xHt_BwP_gf8J",
+   "formattedUrl": "gunosy.com/2012/shogo1224",
+   "htmlFormattedUrl": "gunosy.com/2012/shogo1224",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.b.st-hatena.com/entryimage/77701361-1327547276.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLSouci5MeVsSeISP1nAQQpSVmuOFqr9PDARvGnlyYLaBiZyS93LqpXA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のshogo1224のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/shogo1224",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ZQRVaiXj0S9MGI/5P8HXByM61Ja3S68tOiPkzligb6w="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012年のtakuya831のGunosyまとめ - Gunosy（グノシー）",
+   "htmlTitle": "2012年のtakuya831のGunosyまとめ - Gunosy（グノシー）",
+   "link": "http://gunosy.com/2012/takuya831",
+   "displayLink": "gunosy.com",
+   "snippet": "行き過ぎたソーシャルゲーム GREEで不正行為の内幕無法の「換金市場」と「射幸性」 (  1/7ページ) 2012/2/25 7:00 情報元日本経済新聞 電子版旬の芸能人を起用した大量の  テレビCMで華やかなイメージの「ソーシャルゲーム」。だが水面下ではゲームの枠を ...",
+   "htmlSnippet": "行き過ぎたソーシャルゲーム GREEで不正行為の内幕無法の「換金市場」と「射幸性」 (\u003cbr\u003e  1/7ページ) 2012/2/25 7:00 情報元日本経済新聞 電子版旬の芸能人を起用した大量の\u003cbr\u003e  テレビCMで華やかなイメージの「ソーシャルゲーム」。だが水面下ではゲームの枠を \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i5hR2b27VCIJ",
+   "formattedUrl": "gunosy.com/2012/takuya831",
+   "htmlFormattedUrl": "gunosy.com/2012/takuya831",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bazubu.com/wp-content/uploads/2012/04/salesclosing.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "307",
+      "height": "164",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAF82a9iRkbjF2AJDTbPCIfBwYjpPepI7TiKCjxPVN86jOnIgJCm-oP_E"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2012年のtakuya831のGunosyまとめ",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/2012/takuya831",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "BsgBAnd+5aKRBxCd6tQmYPgxc1pCo7G3cYWd4+9T7yQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "急に黙る女達 「言わなくともわかって欲しい、読み取ってほしい」女の本音 ...",
+   "htmlTitle": "急に黙る女達 「言わなくともわかって欲しい、読み取ってほしい」女の本音 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gunosy.com/g/RHnGH",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline.   ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック ...",
+   "htmlSnippet": "Gunosyはあなたがどんな記事を見ているかを日々学習します。使えば使うほど、より\u003cbr\u003e  賢く、あなたに合った記事を推薦するようになります。 Learning. 3point-boedr-dotline. \u003cbr\u003e  ３. スマホでも。 忙しくてPCで確認できないという人でも、Gunosyはスマホからチェック \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X4skcuI3toYJ",
+   "formattedUrl": "gunosy.com/g/RHnGH",
+   "htmlFormattedUrl": "gunosy.com/g/RHnGH",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn-ak.f.st-hatena.com/images/fotolife/f/fahrenheitize/20120820/20120820230939.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKVtEMqKdhIOy9z57qy0pCUiYnI9FPTc55A1msamxPn7xO5knZYmID8riQ"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "急に黙る女達　「言わなくともわかって欲しい、読み取ってほしい」女の本音(LAURIER（ローリエ）) - エキサイトニュース Gunosy News",
+      "og:description": "女のこの「何でもない」は何でもなくなどない。だいたい女が「何でもない……」という時は「なんかある時」なのである。 [拡大写真] 前回の記事では急に不機嫌なる、突然黙りこむ女の話を書いた。「突然不機嫌になる女に対処できない男」……何か腑に落ちないことや気に入らないことがあり、女が急に口を開かなくなる。そこで男は「どうしたの？」と聞いてみる。「別に……」とか「何でもない」と女が答えれば、聞いた男はそれ...",
+      "og:url": "http://gunosy.com/g/RHnGH",
+      "og:image": "http://cdn-ak.b.st-hatena.com/entryimage/87045845-1332817550.jpg",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "apple-itunes-app": "app-id=590384791",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "zApdfGpN0WYJTq9MkkYknIIHuSAspzeulqWnseKppuk="
+     }
+    ]
+   }
+  }
+ ]
+}

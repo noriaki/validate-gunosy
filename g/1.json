@@ -1,0 +1,506 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - site:gunosy.com",
+    "totalResults": "114000",
+    "searchTerms": "site:gunosy.com",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "016434714500670441010:kxhgwdwqsza"
+   }
+  ]
+ },
+ "context": {
+  "title": "Gunosy"
+ },
+ "searchInformation": {
+  "searchTime": 0.193336,
+  "formattedSearchTime": "0.19",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Gunosy（グノシー）",
+   "htmlTitle": "Gunosy（グノシー）",
+   "link": "http://gunosy.com/",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな  パーソナルマガジンです。",
+   "htmlSnippet": "Gunosy(グノシー)はあなたのtwitterアカウントやfacebookアカウント,はてなアカウント\u003cbr\u003e  からあなたの興味を分析し，興味にあったニュース・記事を推薦するスマートな\u003cbr\u003e  パーソナルマガジンです。",
+   "cacheId": "N3TsO1m7pIMJ",
+   "formattedUrl": "gunosy.com/",
+   "htmlFormattedUrl": "gunosy.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gunosy.com/assets/LP_image/Mac.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQda5oJCJ2r5RKklEqutmaTwfqd8eF_SpzzpvvNQMKq-crXBKNRIF_7YFky"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "Gunosy（グノシー）",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "website",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "mWDNA3WQ/oVXeGfqlapPu4taftt29aG+u64Rg4gIOh0="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/01のbluesuraのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/01のbluesuraのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/bluesura",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosy · ログイン. 情報収集、偏ってませんか？ Gunosyはあなたの情報収集を手助け  します。 登録は以下から。 Gunosy（グノシー）はあなたの興味を分析し、 興味にあった  ニュース・記事を推薦するスマートなパーソナルマガジンです。 （このページは別の ...",
+   "htmlSnippet": "Gunosy &middot; ログイン. 情報収集、偏ってませんか？ Gunosyはあなたの情報収集を手助け\u003cbr\u003e  します。 登録は以下から。 Gunosy（グノシー）はあなたの興味を分析し、 興味にあった\u003cbr\u003e  ニュース・記事を推薦するスマートなパーソナルマガジンです。 （このページは別の \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-gjVXWww2NQJ",
+   "formattedUrl": "gunosy.com/bluesura",
+   "htmlFormattedUrl": "gunosy.com/bluesura",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://japan.cnet.com/storage/2013/03/29/1b217444a8db06f1a2a427802f1ca984/130329_app01.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvAEyVse1NOO6k3Ro02ZEQuqyK3nV49eWoxAuWPs4kpzWP45An4Hg4BZI"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=device-width",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/01のbluesuraのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/bluesura/2013/04/01",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "nDfllta0iovINa7Vu24cPgcSAs0tpCj1dyl40O7kgRU="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/02のNaneyのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/02のNaneyのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/Naney",
+   "displayLink": "gunosy.com",
+   "snippet": "【ロウソクの問題】 ご存じの方もいるかもしれません。 1945年に、カール・ドゥンカー  という心理学者がこの実験を考案し、様々な行動科学の実験で用いました。ご説明しま  しょう。私が実験者だとします。私はあ... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "【ロウソクの問題】 ご存じの方もいるかもしれません。 1945年に、カール・ドゥンカー\u003cbr\u003e  という心理学者がこの実験を考案し、様々な行動科学の実験で用いました。ご説明しま\u003cbr\u003e  しょう。私が実験者だとします。私はあ... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HtGw60cGheYJ",
+   "formattedUrl": "gunosy.com/Naney",
+   "htmlFormattedUrl": "gunosy.com/Naney",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lifehacker.jp/assets_c/2013/04/130430emails_to_inbox_zero-thumb-640x360.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLdHu4ygPD-HNxRFUAerAhFL_VZ2rK1bsLbgg8bJ-VI59Ap7il8uv7ASeI"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/02のNaneyのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/Naney/2013/05/02",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "cz5ptvcPHvxjRgjN8zEOanI0oTcxsVjfyJmL/aMdx1A="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/03のigaosのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/03のigaosのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/igaos/",
+   "displayLink": "gunosy.com",
+   "snippet": "安倍首相、サウジアラビアでスピーチ 経済面での連携強化訴える フジテレビ系（FNN）   5月1日(水)20時32分配信 サウジアラビアを訪問中の安倍首相は、日本と中東の関係  についてのスピーチを行い、中東... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "安倍首相、サウジアラビアでスピーチ 経済面での連携強化訴える フジテレビ系（FNN） \u003cbr\u003e  5月1日(水)20時32分配信 サウジアラビアを訪問中の安倍首相は、日本と中東の関係\u003cbr\u003e  についてのスピーチを行い、中東... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rN_A9kk8wf4J",
+   "formattedUrl": "gunosy.com/igaos/",
+   "htmlFormattedUrl": "gunosy.com/igaos/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://blog-imgs-59.fc2.com/a/k/i/akiharahaduki/2013043016273251d.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbQUO3vlNVKZdWaqU5zfaz8JpqSqTkJAJ2al0dl_4lpm3id0sJXRY_GlW"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/03のigaosのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/igaos/2013/05/03",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "lfyKAQQ/ex2zCNG7N+xTjzov6UNp5hFUZMnA9hoox+4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/30のkotala_bのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/30のkotala_bのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/kotala_b",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=weekly.ascii weekly.ascii.jp · レシートを撮るだけでカンタンに家計  簿ができるiPhoneアプリ、ReceReco. ReceReco レシート撮影で家計簿！支出管理で  節約、貯金 App Store価格：無料 BrainPad Inc. （価格は記事作成時のものです） ...",
+   "htmlSnippet": "Favicons?domain=weekly.ascii weekly.ascii.jp &middot; レシートを撮るだけでカンタンに家計\u003cbr\u003e  簿ができるiPhoneアプリ、ReceReco. ReceReco レシート撮影で家計簿！支出管理で\u003cbr\u003e  節約、貯金 App Store価格：無料 BrainPad Inc. （価格は記事作成時のものです） \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jgkO9A79AdsJ",
+   "formattedUrl": "gunosy.com/kotala_b",
+   "htmlFormattedUrl": "gunosy.com/kotala_b",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://weekly.ascii.jp/elem/000/000/137/137766/20130409_saijo_recereco_107x.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "85",
+      "height": "85",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwtx9N9odmnnzzVpt0mXLi4IQdcocDGRBNfPgs-y2CYqy2TOU3Udn"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/30のkotala_bのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/kotala_b/2013/04/30",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Q0ofE28HT00rpy8R+R57VeLJu1iEfcz/F7YLRPDbShs="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/30のmorinatsuのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/30のmorinatsuのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/morinatsu",
+   "displayLink": "gunosy.com",
+   "snippet": "Favicons?domain=r25.yahoo.co r25.yahoo.co.jp · 日本の家の平均寿命が短い理由   | web R25. 多くの人にとって生涯で最も高い買い物は家だろう。だからこそできるだけ  長く住み続けたいところだが、日本の住宅は欧米諸国に比べてかなり寿命が短いことを ...",
+   "htmlSnippet": "Favicons?domain=r25.yahoo.co r25.yahoo.co.jp &middot; 日本の家の平均寿命が短い理由 \u003cbr\u003e  | web R25. 多くの人にとって生涯で最も高い買い物は家だろう。だからこそできるだけ\u003cbr\u003e  長く住み続けたいところだが、日本の住宅は欧米諸国に比べてかなり寿命が短いことを \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jQpwDdtQeX4J",
+   "formattedUrl": "gunosy.com/morinatsu",
+   "htmlFormattedUrl": "gunosy.com/morinatsu",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://livedoor.blogimg.jp/hiroset/imgs/d/a/da323662-s.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "256",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlb8fw6ueuLKiXbPAc97AMhjSaZXehIQ-l5_CD7IE-pDIn9Vfn02SAO2Wv"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/30のmorinatsuのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/morinatsu/2013/04/30",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "9pCV973P4cfkHTJz4ETvCXlWSGiUxKlir6zWOEw0X2g="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/03のkaito721のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/03のkaito721のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/kaito721",
+   "displayLink": "gunosy.com",
+   "snippet": "LINEやTwitterなどで、「みんなで一斉に『パズル＆ドラゴンズ』にログインして障害を  起こし、メンテナンスのお詫びをもらおう」という呼びかけが広がっていることが分かった。  「パズドラ」運営サイトでは... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "LINEやTwitterなどで、「みんなで一斉に『パズル＆ドラゴンズ』にログインして障害を\u003cbr\u003e  起こし、メンテナンスのお詫びをもらおう」という呼びかけが広がっていることが分かった。\u003cbr\u003e  「パズドラ」運営サイトでは... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JNJyDYse6LUJ",
+   "formattedUrl": "gunosy.com/kaito721",
+   "htmlFormattedUrl": "gunosy.com/kaito721",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://211.125.65.24/wp-content/uploads/2013/05/icon31.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "74",
+      "height": "74",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWtDYA9-rvaaUEx63otHUIaEXYOlXozfZthld5ktDJ5Twkzj2S66DqQ"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/03のkaito721のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/kaito721/2013/05/03",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "W3Q5F6bqE5mECfTb9tcqGAaUyFEg+KhKddMWkYDG7k8="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/05/04のshowa_yojyoのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/05/04のshowa_yojyoのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/showa_yojyo/",
+   "displayLink": "gunosy.com",
+   "snippet": "千葉県四街道市で３２歳の男性が自分の車の「インプレッサ」が盗まれるのを止めよう  として引きずられ、けがをした事件で、男性が犯人を追いかけた際、奪われた車ともう１  台の車にはねられそうになっていたことが分か... Btn-tw-tweet_rollover. Btn-fb- ...",
+   "htmlSnippet": "千葉県四街道市で３２歳の男性が自分の車の「インプレッサ」が盗まれるのを止めよう\u003cbr\u003e  として引きずられ、けがをした事件で、男性が犯人を追いかけた際、奪われた車ともう１\u003cbr\u003e  台の車にはねられそうになっていたことが分か... Btn-tw-tweet_rollover. Btn-fb- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aFatCR2rORsJ",
+   "formattedUrl": "gunosy.com/showa_yojyo/",
+   "htmlFormattedUrl": "gunosy.com/showa_yojyo/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://wedge.ismedia.jp/mwimgs/b/2/-/img_b25a0c7511c6a261d0ce75ca063bbf3617636.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "97",
+      "height": "65",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-3rg-beVHZCvdWLpNyZsThoqqop18zfzu8DkVlaUAJ476o7sDzy6P"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/05/04のshowa_yojyoのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/showa_yojyo/2013/05/04",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "hFSWydlCWGza+QQuILnwADtP0j0+cQvr00OdKi7TYGg="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/27のArt_SaltのGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/27のArt_SaltのGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/Art_Salt",
+   "displayLink": "gunosy.com",
+   "snippet": "いよいよカジノ解禁 その前に肝に銘じておくこと 政府が6月に取りまとめる新成長戦略  の目玉として、いよいよカジノ解禁に踏み切るようです。 昨日（4月24日）カジノ合法化と  観光産業の誘致を議論する... Btn-tw-tweet_rollover. Btn-fb-share_rollover ...",
+   "htmlSnippet": "いよいよカジノ解禁 その前に肝に銘じておくこと 政府が6月に取りまとめる新成長戦略\u003cbr\u003e  の目玉として、いよいよカジノ解禁に踏み切るようです。 昨日（4月24日）カジノ合法化と\u003cbr\u003e  観光産業の誘致を議論する... Btn-tw-tweet_rollover. Btn-fb-share_rollover \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b538Po7YXRwJ",
+   "formattedUrl": "gunosy.com/Art_Salt",
+   "htmlFormattedUrl": "gunosy.com/Art_Salt",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bloomberg.co.jp/apps/data?pid=avimage&iid=ito52fwYOgTw"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5BTpVktCwsddjEPwI6Y6-EktYqhIRCjm6puKR7XK88tUyrzntRg6GOhg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/27のArt_SaltのGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/Art_Salt/2013/04/27",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ZL9lTCf7Yh6tpqlgsoI3RINm6LNzZc8+wVaDRO6EPHw="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2013/04/27のyue9のGunosy - Gunosy（グノシー）",
+   "htmlTitle": "2013/04/27のyue9のGunosy - Gunosy（グノシー）",
+   "link": "http://gunosy.com/yue9",
+   "displayLink": "gunosy.com",
+   "snippet": "Gunosyは「あなたの欲しい情報」を集めてきます。 自分で情報を探す必要はもう  ありません。 Gunosyがあなたに合ったニュースだけを毎日届けてくれます。 Facebook  で登録 · Twitterで登録 · 前日 2013.04.26（金）2013.04.27（土）. 2013年3月のまとめ ...",
+   "htmlSnippet": "Gunosyは「あなたの欲しい情報」を集めてきます。 自分で情報を探す必要はもう\u003cbr\u003e  ありません。 Gunosyがあなたに合ったニュースだけを毎日届けてくれます。 Facebook\u003cbr\u003e  で登録 &middot; Twitterで登録 &middot; 前日 2013.04.26（金）2013.04.27（土）. 2013年3月のまとめ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2c1Fbz7HcgoJ",
+   "formattedUrl": "gunosy.com/yue9",
+   "htmlFormattedUrl": "gunosy.com/yue9",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://imgassets.com/irorio/uploads/2013/04/ramenchoco-309x154.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "247",
+      "height": "123",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgoJOQOwaWxwMzoU7DZ1FjZKYPnWCwZdTFHFCypgXKIc_I8MPIti1sF9U"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Gunosy",
+      "author": "Gunosy",
+      "viewport": "width=1024",
+      "fb:app_id": "282785358406948",
+      "twitter:card": "summary",
+      "twitter:site": "@gunosy_news",
+      "og:title": "2013/04/27のyue9のGunosy",
+      "og:description": "Gunosy（グノシー）はあなたのTwitterアカウントやFacebookアカウント、はてなアカウントからあなたの興味を分析し、興味にあったニュース・記事を推薦するスマートなパーソナルマガジンです。",
+      "og:url": "http://gunosy.com/yue9/2013/04/27",
+      "og:image": "http://gunosy.com/assets/ogp.png",
+      "og:image:type": "image/png",
+      "og:type": "article",
+      "og:image:width": "100",
+      "og:image:height": "116",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "sXk3mDwk+nlZ2a8wPjLZkya4q8VZHFwnqX9T9ck+ESM="
+     }
+    ]
+   }
+  }
+ ]
+}
